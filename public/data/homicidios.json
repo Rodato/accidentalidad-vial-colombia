@@ -1,0 +1,3375 @@
+{
+  "porAnoGeneroEdad": [
+    {
+      "ano": "2010",
+      "genero": "NO REPORTA",
+      "edad": "ADULTOS",
+      "victimas": "4"
+    },
+    {
+      "ano": "2010",
+      "genero": "MASCULINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "116"
+    },
+    {
+      "ano": "2010",
+      "genero": "MASCULINO",
+      "edad": "MENORES",
+      "victimas": "84"
+    },
+    {
+      "ano": "2010",
+      "genero": "FEMENINO",
+      "edad": "ADULTOS",
+      "victimas": "828"
+    },
+    {
+      "ano": "2010",
+      "genero": "FEMENINO",
+      "edad": "MENORES",
+      "victimas": "60"
+    },
+    {
+      "ano": "2010",
+      "genero": "FEMENINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "38"
+    },
+    {
+      "ano": "2010",
+      "genero": "MASCULINO",
+      "edad": "ADULTOS",
+      "victimas": "3370"
+    },
+    {
+      "ano": "2011",
+      "genero": "MASCULINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "113"
+    },
+    {
+      "ano": "2011",
+      "genero": "MASCULINO",
+      "edad": "ADULTOS",
+      "victimas": "3197"
+    },
+    {
+      "ano": "2011",
+      "genero": "FEMENINO",
+      "edad": "ADULTOS",
+      "victimas": "817"
+    },
+    {
+      "ano": "2011",
+      "genero": "MASCULINO",
+      "edad": "MENORES",
+      "victimas": "77"
+    },
+    {
+      "ano": "2011",
+      "genero": "FEMENINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "31"
+    },
+    {
+      "ano": "2011",
+      "genero": "FEMENINO",
+      "edad": "MENORES",
+      "victimas": "55"
+    },
+    {
+      "ano": "2011",
+      "genero": "NO REPORTA",
+      "edad": "ADULTOS",
+      "victimas": "5"
+    },
+    {
+      "ano": "2012",
+      "genero": "MASCULINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "122"
+    },
+    {
+      "ano": "2012",
+      "genero": "MASCULINO",
+      "edad": "ADULTOS",
+      "victimas": "3438"
+    },
+    {
+      "ano": "2012",
+      "genero": "FEMENINO",
+      "edad": "ADULTOS",
+      "victimas": "825"
+    },
+    {
+      "ano": "2012",
+      "genero": "FEMENINO",
+      "edad": "MENORES",
+      "victimas": "42"
+    },
+    {
+      "ano": "2012",
+      "genero": "MASCULINO",
+      "edad": "MENORES",
+      "victimas": "87"
+    },
+    {
+      "ano": "2012",
+      "genero": "FEMENINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "35"
+    },
+    {
+      "ano": "2013",
+      "genero": "MASCULINO",
+      "edad": "MENORES",
+      "victimas": "90"
+    },
+    {
+      "ano": "2013",
+      "genero": "FEMENINO",
+      "edad": "ADULTOS",
+      "victimas": "884"
+    },
+    {
+      "ano": "2013",
+      "genero": "MASCULINO",
+      "edad": "ADULTOS",
+      "victimas": "3687"
+    },
+    {
+      "ano": "2013",
+      "genero": "MASCULINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "155"
+    },
+    {
+      "ano": "2013",
+      "genero": "FEMENINO",
+      "edad": "MENORES",
+      "victimas": "54"
+    },
+    {
+      "ano": "2013",
+      "genero": "NO REPORTA",
+      "edad": "ADOLESCENTES",
+      "victimas": "1"
+    },
+    {
+      "ano": "2013",
+      "victimas": "1"
+    },
+    {
+      "ano": "2013",
+      "genero": "FEMENINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "45"
+    },
+    {
+      "ano": "2013",
+      "genero": "NO REPORTA",
+      "edad": "ADULTOS",
+      "victimas": "5"
+    },
+    {
+      "ano": "2014",
+      "genero": "MASCULINO",
+      "edad": "MENORES",
+      "victimas": "79"
+    },
+    {
+      "ano": "2014",
+      "genero": "FEMENINO",
+      "edad": "MENORES",
+      "victimas": "55"
+    },
+    {
+      "ano": "2014",
+      "edad": "ADULTOS",
+      "victimas": "1"
+    },
+    {
+      "ano": "2014",
+      "victimas": "1"
+    },
+    {
+      "ano": "2014",
+      "genero": "FEMENINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "55"
+    },
+    {
+      "ano": "2014",
+      "genero": "FEMENINO",
+      "edad": "ADULTOS",
+      "victimas": "909"
+    },
+    {
+      "ano": "2014",
+      "genero": "MASCULINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "150"
+    },
+    {
+      "ano": "2014",
+      "genero": "MASCULINO",
+      "edad": "ADULTOS",
+      "victimas": "3585"
+    },
+    {
+      "ano": "2015",
+      "genero": "MASCULINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "149"
+    },
+    {
+      "ano": "2015",
+      "genero": "MASCULINO",
+      "edad": "ADULTOS",
+      "victimas": "4027"
+    },
+    {
+      "ano": "2015",
+      "genero": "MASCULINO",
+      "edad": "MENORES",
+      "victimas": "116"
+    },
+    {
+      "ano": "2015",
+      "genero": "FEMENINO",
+      "edad": "ADULTOS",
+      "victimas": "951"
+    },
+    {
+      "ano": "2015",
+      "genero": "FEMENINO",
+      "edad": "MENORES",
+      "victimas": "51"
+    },
+    {
+      "ano": "2015",
+      "genero": "FEMENINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "50"
+    },
+    {
+      "ano": "2016",
+      "genero": "FEMENINO",
+      "edad": "ADULTOS",
+      "victimas": "1047"
+    },
+    {
+      "ano": "2016",
+      "genero": "MASCULINO",
+      "edad": "ADULTOS",
+      "victimas": "4141"
+    },
+    {
+      "ano": "2016",
+      "genero": "FEMENINO",
+      "edad": "MENORES",
+      "victimas": "63"
+    },
+    {
+      "ano": "2016",
+      "genero": "FEMENINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "69"
+    },
+    {
+      "ano": "2016",
+      "genero": "MASCULINO",
+      "edad": "MENORES",
+      "victimas": "104"
+    },
+    {
+      "ano": "2016",
+      "genero": "MASCULINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "185"
+    },
+    {
+      "ano": "2017",
+      "victimas": "1"
+    },
+    {
+      "ano": "2017",
+      "genero": "FEMENINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "64"
+    },
+    {
+      "ano": "2017",
+      "genero": "MASCULINO",
+      "edad": "MENORES",
+      "victimas": "109"
+    },
+    {
+      "ano": "2017",
+      "genero": "FEMENINO",
+      "edad": "MENORES",
+      "victimas": "57"
+    },
+    {
+      "ano": "2017",
+      "genero": "MASCULINO",
+      "edad": "ADULTOS",
+      "victimas": "3877"
+    },
+    {
+      "ano": "2017",
+      "genero": "MASCULINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "201"
+    },
+    {
+      "ano": "2017",
+      "genero": "FEMENINO",
+      "edad": "ADULTOS",
+      "victimas": "952"
+    },
+    {
+      "ano": "2018",
+      "genero": "MASCULINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "199"
+    },
+    {
+      "ano": "2018",
+      "victimas": "13"
+    },
+    {
+      "ano": "2018",
+      "edad": "ADULTOS",
+      "victimas": "3"
+    },
+    {
+      "ano": "2018",
+      "genero": "MASCULINO",
+      "edad": "ADULTOS",
+      "victimas": "4447"
+    },
+    {
+      "ano": "2018",
+      "genero": "FEMENINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "55"
+    },
+    {
+      "ano": "2018",
+      "genero": "FEMENINO",
+      "edad": "ADULTOS",
+      "victimas": "1147"
+    },
+    {
+      "ano": "2018",
+      "genero": "MASCULINO",
+      "edad": "MENORES",
+      "victimas": "84"
+    },
+    {
+      "ano": "2018",
+      "genero": "FEMENINO",
+      "edad": "MENORES",
+      "victimas": "69"
+    },
+    {
+      "ano": "2019",
+      "genero": "FEMENINO",
+      "edad": "ADULTOS",
+      "victimas": "1101"
+    },
+    {
+      "ano": "2019",
+      "victimas": "14"
+    },
+    {
+      "ano": "2019",
+      "genero": "MASCULINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "183"
+    },
+    {
+      "ano": "2019",
+      "genero": "FEMENINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "58"
+    },
+    {
+      "ano": "2019",
+      "genero": "FEMENINO",
+      "edad": "MENORES",
+      "victimas": "44"
+    },
+    {
+      "ano": "2019",
+      "genero": "MASCULINO",
+      "edad": "ADULTOS",
+      "victimas": "4573"
+    },
+    {
+      "ano": "2019",
+      "genero": "MASCULINO",
+      "edad": "MENORES",
+      "victimas": "80"
+    },
+    {
+      "ano": "2020",
+      "genero": "MASCULINO",
+      "edad": "MENORES",
+      "victimas": "49"
+    },
+    {
+      "ano": "2020",
+      "victimas": "4"
+    },
+    {
+      "ano": "2020",
+      "genero": "FEMENINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "50"
+    },
+    {
+      "ano": "2020",
+      "genero": "MASCULINO",
+      "edad": "ADULTOS",
+      "victimas": "3945"
+    },
+    {
+      "ano": "2020",
+      "genero": "FEMENINO",
+      "edad": "ADULTOS",
+      "victimas": "820"
+    },
+    {
+      "ano": "2020",
+      "genero": "MASCULINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "163"
+    },
+    {
+      "ano": "2020",
+      "genero": "FEMENINO",
+      "edad": "MENORES",
+      "victimas": "37"
+    },
+    {
+      "ano": "2021",
+      "genero": "MASCULINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "184"
+    },
+    {
+      "ano": "2021",
+      "victimas": "4"
+    },
+    {
+      "ano": "2021",
+      "genero": "FEMENINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "56"
+    },
+    {
+      "ano": "2021",
+      "genero": "FEMENINO",
+      "edad": "MENORES",
+      "victimas": "56"
+    },
+    {
+      "ano": "2021",
+      "genero": "FEMENINO",
+      "edad": "ADULTOS",
+      "victimas": "1180"
+    },
+    {
+      "ano": "2021",
+      "genero": "MASCULINO",
+      "edad": "MENORES",
+      "victimas": "77"
+    },
+    {
+      "ano": "2021",
+      "genero": "MASCULINO",
+      "edad": "ADULTOS",
+      "victimas": "5441"
+    },
+    {
+      "ano": "2022",
+      "genero": "FEMENINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "51"
+    },
+    {
+      "ano": "2022",
+      "genero": "FEMENINO",
+      "edad": "ADULTOS",
+      "victimas": "1319"
+    },
+    {
+      "ano": "2022",
+      "genero": "MASCULINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "208"
+    },
+    {
+      "ano": "2022",
+      "genero": "FEMENINO",
+      "edad": "MENORES",
+      "victimas": "53"
+    },
+    {
+      "ano": "2022",
+      "genero": "MASCULINO",
+      "edad": "MENORES",
+      "victimas": "74"
+    },
+    {
+      "ano": "2022",
+      "genero": "MASCULINO",
+      "edad": "ADULTOS",
+      "victimas": "5823"
+    },
+    {
+      "ano": "2022",
+      "victimas": "11"
+    },
+    {
+      "ano": "2023",
+      "edad": "ADULTOS",
+      "victimas": "9"
+    },
+    {
+      "ano": "2023",
+      "genero": "FEMENINO",
+      "edad": "ADULTOS",
+      "victimas": "1311"
+    },
+    {
+      "ano": "2023",
+      "genero": "MASCULINO",
+      "edad": "MENORES",
+      "victimas": "75"
+    },
+    {
+      "ano": "2023",
+      "genero": "MASCULINO",
+      "edad": "ADULTOS",
+      "victimas": "5853"
+    },
+    {
+      "ano": "2023",
+      "genero": "FEMENINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "63"
+    },
+    {
+      "ano": "2023",
+      "genero": "FEMENINO",
+      "edad": "MENORES",
+      "victimas": "46"
+    },
+    {
+      "ano": "2023",
+      "genero": "MASCULINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "204"
+    },
+    {
+      "ano": "2023",
+      "victimas": "23"
+    },
+    {
+      "ano": "2024",
+      "genero": "MASCULINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "154"
+    },
+    {
+      "ano": "2024",
+      "genero": "FEMENINO",
+      "edad": "ADULTOS",
+      "victimas": "1290"
+    },
+    {
+      "ano": "2024",
+      "edad": "ADULTOS",
+      "victimas": "12"
+    },
+    {
+      "ano": "2024",
+      "genero": "FEMENINO",
+      "edad": "MENORES",
+      "victimas": "26"
+    },
+    {
+      "ano": "2024",
+      "genero": "FEMENINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "65"
+    },
+    {
+      "ano": "2024",
+      "genero": "MASCULINO",
+      "edad": "MENORES",
+      "victimas": "66"
+    },
+    {
+      "ano": "2024",
+      "victimas": "25"
+    },
+    {
+      "ano": "2024",
+      "genero": "MASCULINO",
+      "edad": "ADULTOS",
+      "victimas": "5488"
+    },
+    {
+      "ano": "2025",
+      "genero": "MASCULINO",
+      "edad": "ADULTOS",
+      "victimas": "5722"
+    },
+    {
+      "ano": "2025",
+      "genero": "FEMENINO",
+      "edad": "MENORES",
+      "victimas": "41"
+    },
+    {
+      "ano": "2025",
+      "genero": "MASCULINO",
+      "edad": "MENORES",
+      "victimas": "67"
+    },
+    {
+      "ano": "2025",
+      "edad": "ADULTOS",
+      "victimas": "17"
+    },
+    {
+      "ano": "2025",
+      "victimas": "40"
+    },
+    {
+      "ano": "2025",
+      "genero": "FEMENINO",
+      "edad": "ADULTOS",
+      "victimas": "1425"
+    },
+    {
+      "ano": "2025",
+      "genero": "FEMENINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "72"
+    },
+    {
+      "ano": "2025",
+      "genero": "MASCULINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "179"
+    },
+    {
+      "ano": "2026",
+      "genero": "MASCULINO",
+      "edad": "MENORES",
+      "victimas": "11"
+    },
+    {
+      "ano": "2026",
+      "genero": "MASCULINO",
+      "edad": "ADULTOS",
+      "victimas": "1480"
+    },
+    {
+      "ano": "2026",
+      "genero": "FEMENINO",
+      "edad": "MENORES",
+      "victimas": "19"
+    },
+    {
+      "ano": "2026",
+      "genero": "MASCULINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "53"
+    },
+    {
+      "ano": "2026",
+      "victimas": "14"
+    },
+    {
+      "ano": "2026",
+      "genero": "FEMENINO",
+      "edad": "ADULTOS",
+      "victimas": "374"
+    },
+    {
+      "ano": "2026",
+      "genero": "FEMENINO",
+      "edad": "ADOLESCENTES",
+      "victimas": "20"
+    },
+    {
+      "ano": "2026",
+      "edad": "ADULTOS",
+      "victimas": "5"
+    }
+  ],
+  "porDepto": [
+    {
+      "depto": "ANTIOQUIA",
+      "ano": "2023",
+      "victimas": "1428"
+    },
+    {
+      "depto": "ANTIOQUIA",
+      "ano": "2025",
+      "victimas": "1226"
+    },
+    {
+      "depto": "ANTIOQUIA",
+      "ano": "2024",
+      "victimas": "1203"
+    },
+    {
+      "depto": "ANTIOQUIA",
+      "ano": "2021",
+      "victimas": "1174"
+    },
+    {
+      "depto": "ANTIOQUIA",
+      "ano": "2022",
+      "victimas": "1088"
+    },
+    {
+      "depto": "VALLE",
+      "ano": "2018",
+      "victimas": "823"
+    },
+    {
+      "depto": "VALLE",
+      "ano": "2016",
+      "victimas": "806"
+    },
+    {
+      "depto": "VALLE",
+      "ano": "2019",
+      "victimas": "787"
+    },
+    {
+      "depto": "ANTIOQUIA",
+      "ano": "2019",
+      "victimas": "769"
+    },
+    {
+      "depto": "ANTIOQUIA",
+      "ano": "2018",
+      "victimas": "744"
+    },
+    {
+      "depto": "VALLE",
+      "ano": "2017",
+      "victimas": "741"
+    },
+    {
+      "depto": "VALLE",
+      "ano": "2015",
+      "victimas": "735"
+    },
+    {
+      "depto": "ANTIOQUIA",
+      "ano": "2015",
+      "victimas": "733"
+    },
+    {
+      "depto": "ANTIOQUIA",
+      "ano": "2016",
+      "victimas": "731"
+    },
+    {
+      "depto": "VALLE",
+      "ano": "2022",
+      "victimas": "702"
+    },
+    {
+      "depto": "ANTIOQUIA",
+      "ano": "2017",
+      "victimas": "693"
+    },
+    {
+      "depto": "VALLE",
+      "ano": "2021",
+      "victimas": "678"
+    },
+    {
+      "depto": "VALLE",
+      "ano": "2025",
+      "victimas": "676"
+    },
+    {
+      "depto": "VALLE",
+      "ano": "2010",
+      "victimas": "664"
+    },
+    {
+      "depto": "ANTIOQUIA",
+      "ano": "2014",
+      "victimas": "647"
+    },
+    {
+      "depto": "VALLE",
+      "ano": "2020",
+      "victimas": "627"
+    },
+    {
+      "depto": "ANTIOQUIA",
+      "ano": "2020",
+      "victimas": "625"
+    },
+    {
+      "depto": "VALLE",
+      "ano": "2013",
+      "victimas": "610"
+    },
+    {
+      "depto": "BOGOTA",
+      "ano": "2025",
+      "victimas": "609"
+    },
+    {
+      "depto": "BOGOTA",
+      "ano": "2022",
+      "victimas": "608"
+    },
+    {
+      "depto": "ANTIOQUIA",
+      "ano": "2013",
+      "victimas": "601"
+    },
+    {
+      "depto": "BOGOTA",
+      "ano": "2024",
+      "victimas": "597"
+    },
+    {
+      "depto": "VALLE",
+      "ano": "2012",
+      "victimas": "595"
+    },
+    {
+      "depto": "VALLE",
+      "ano": "2011",
+      "victimas": "588"
+    },
+    {
+      "depto": "VALLE",
+      "ano": "2024",
+      "victimas": "582"
+    },
+    {
+      "depto": "BOGOTA",
+      "ano": "2023",
+      "victimas": "578"
+    },
+    {
+      "depto": "VALLE",
+      "ano": "2023",
+      "victimas": "571"
+    },
+    {
+      "depto": "VALLE",
+      "ano": "2014",
+      "victimas": "565"
+    },
+    {
+      "depto": "CUNDINAMARCA",
+      "ano": "2022",
+      "victimas": "550"
+    },
+    {
+      "depto": "BOGOTA",
+      "ano": "2014",
+      "victimas": "541"
+    },
+    {
+      "depto": "CUNDINAMARCA",
+      "ano": "2025",
+      "victimas": "530"
+    },
+    {
+      "depto": "BOGOTA",
+      "ano": "2011",
+      "victimas": "523"
+    },
+    {
+      "depto": "CUNDINAMARCA",
+      "ano": "2023",
+      "victimas": "516"
+    },
+    {
+      "depto": "BOGOTA",
+      "ano": "2018",
+      "victimas": "512"
+    },
+    {
+      "depto": "BOGOTA",
+      "ano": "2019",
+      "victimas": "511"
+    },
+    {
+      "depto": "BOGOTA",
+      "ano": "2012",
+      "victimas": "508"
+    },
+    {
+      "depto": "BOGOTA",
+      "ano": "2021",
+      "victimas": "500"
+    },
+    {
+      "depto": "CUNDINAMARCA",
+      "ano": "2021",
+      "victimas": "497"
+    },
+    {
+      "depto": "ANTIOQUIA",
+      "ano": "2012",
+      "victimas": "495"
+    },
+    {
+      "depto": "ANTIOQUIA",
+      "ano": "2010",
+      "victimas": "494"
+    },
+    {
+      "depto": "BOGOTA",
+      "ano": "2016",
+      "victimas": "491"
+    },
+    {
+      "depto": "BOGOTA",
+      "ano": "2010",
+      "victimas": "489"
+    },
+    {
+      "depto": "BOGOTA",
+      "ano": "2015",
+      "victimas": "483"
+    },
+    {
+      "depto": "BOGOTA",
+      "ano": "2017",
+      "victimas": "481"
+    },
+    {
+      "depto": "BOGOTA",
+      "ano": "2013",
+      "victimas": "473"
+    },
+    {
+      "depto": "CUNDINAMARCA",
+      "ano": "2024",
+      "victimas": "462"
+    },
+    {
+      "depto": "ANTIOQUIA",
+      "ano": "2011",
+      "victimas": "434"
+    },
+    {
+      "depto": "CUNDINAMARCA",
+      "ano": "2019",
+      "victimas": "429"
+    },
+    {
+      "depto": "SANTANDER",
+      "ano": "2025",
+      "victimas": "405"
+    },
+    {
+      "depto": "BOGOTA",
+      "ano": "2020",
+      "victimas": "399"
+    },
+    {
+      "depto": "NORTE DE SANTANDER",
+      "ano": "2024",
+      "victimas": "397"
+    },
+    {
+      "depto": "SANTANDER",
+      "ano": "2023",
+      "victimas": "392"
+    },
+    {
+      "depto": "CUNDINAMARCA",
+      "ano": "2016",
+      "victimas": "392"
+    },
+    {
+      "depto": "CÓRDOBA",
+      "ano": "2022",
+      "victimas": "378"
+    },
+    {
+      "depto": "CUNDINAMARCA",
+      "ano": "2017",
+      "victimas": "376"
+    },
+    {
+      "depto": "NORTE DE SANTANDER",
+      "ano": "2025",
+      "victimas": "375"
+    },
+    {
+      "depto": "CUNDINAMARCA",
+      "ano": "2018",
+      "victimas": "375"
+    },
+    {
+      "depto": "SANTANDER",
+      "ano": "2024",
+      "victimas": "373"
+    },
+    {
+      "depto": "CUNDINAMARCA",
+      "ano": "2010",
+      "victimas": "362"
+    },
+    {
+      "depto": "CUNDINAMARCA",
+      "ano": "2015",
+      "victimas": "359"
+    },
+    {
+      "depto": "CUNDINAMARCA",
+      "ano": "2012",
+      "victimas": "349"
+    },
+    {
+      "depto": "SANTANDER",
+      "ano": "2021",
+      "victimas": "346"
+    },
+    {
+      "depto": "CUNDINAMARCA",
+      "ano": "2011",
+      "victimas": "344"
+    },
+    {
+      "depto": "HUILA",
+      "ano": "2025",
+      "victimas": "340"
+    },
+    {
+      "depto": "TOLIMA",
+      "ano": "2022",
+      "victimas": "338"
+    },
+    {
+      "depto": "CUNDINAMARCA",
+      "ano": "2020",
+      "victimas": "336"
+    },
+    {
+      "depto": "SANTANDER",
+      "ano": "2022",
+      "victimas": "334"
+    },
+    {
+      "depto": "CUNDINAMARCA",
+      "ano": "2014",
+      "victimas": "334"
+    },
+    {
+      "depto": "NORTE DE SANTANDER",
+      "ano": "2023",
+      "victimas": "328"
+    },
+    {
+      "depto": "BOLÍVAR",
+      "ano": "2021",
+      "victimas": "327"
+    },
+    {
+      "depto": "BOLÍVAR",
+      "ano": "2023",
+      "victimas": "326"
+    },
+    {
+      "depto": "TOLIMA",
+      "ano": "2021",
+      "victimas": "321"
+    },
+    {
+      "depto": "BOLÍVAR",
+      "ano": "2022",
+      "victimas": "308"
+    },
+    {
+      "depto": "CESAR",
+      "ano": "2023",
+      "victimas": "306"
+    },
+    {
+      "depto": "ANTIOQUIA",
+      "ano": "2026",
+      "victimas": "304"
+    },
+    {
+      "depto": "CÓRDOBA",
+      "ano": "2023",
+      "victimas": "299"
+    },
+    {
+      "depto": "CÓRDOBA",
+      "ano": "2025",
+      "victimas": "296"
+    },
+    {
+      "depto": "CUNDINAMARCA",
+      "ano": "2013",
+      "victimas": "296"
+    },
+    {
+      "depto": "CÓRDOBA",
+      "ano": "2021",
+      "victimas": "293"
+    },
+    {
+      "depto": "SANTANDER",
+      "ano": "2013",
+      "victimas": "283"
+    },
+    {
+      "depto": "CESAR",
+      "ano": "2022",
+      "victimas": "283"
+    },
+    {
+      "depto": "CESAR",
+      "ano": "2021",
+      "victimas": "281"
+    },
+    {
+      "depto": "TOLIMA",
+      "ano": "2023",
+      "victimas": "280"
+    },
+    {
+      "depto": "HUILA",
+      "ano": "2024",
+      "victimas": "278"
+    },
+    {
+      "depto": "BOLÍVAR",
+      "ano": "2025",
+      "victimas": "276"
+    },
+    {
+      "depto": "TOLIMA",
+      "ano": "2025",
+      "victimas": "276"
+    },
+    {
+      "depto": "SANTANDER",
+      "ano": "2017",
+      "victimas": "276"
+    },
+    {
+      "depto": "TOLIMA",
+      "ano": "2018",
+      "victimas": "274"
+    },
+    {
+      "depto": "META",
+      "ano": "2024",
+      "victimas": "271"
+    },
+    {
+      "depto": "ATLÁNTICO",
+      "ano": "2022",
+      "victimas": "266"
+    },
+    {
+      "depto": "SANTANDER",
+      "ano": "2019",
+      "victimas": "266"
+    },
+    {
+      "depto": "SANTANDER",
+      "ano": "2016",
+      "victimas": "265"
+    },
+    {
+      "depto": "CESAR",
+      "ano": "2024",
+      "victimas": "264"
+    },
+    {
+      "depto": "CÓRDOBA",
+      "ano": "2019",
+      "victimas": "263"
+    },
+    {
+      "depto": "BOLÍVAR",
+      "ano": "2024",
+      "victimas": "263"
+    },
+    {
+      "depto": "CAUCA",
+      "ano": "2025",
+      "victimas": "262"
+    },
+    {
+      "depto": "SANTANDER",
+      "ano": "2018",
+      "victimas": "260"
+    },
+    {
+      "depto": "CAUCA",
+      "ano": "2022",
+      "victimas": "260"
+    },
+    {
+      "depto": "SANTANDER",
+      "ano": "2015",
+      "victimas": "259"
+    },
+    {
+      "depto": "HUILA",
+      "ano": "2023",
+      "victimas": "258"
+    },
+    {
+      "depto": "SANTANDER",
+      "ano": "2011",
+      "victimas": "257"
+    },
+    {
+      "depto": "ATLÁNTICO",
+      "ano": "2025",
+      "victimas": "257"
+    },
+    {
+      "depto": "CAUCA",
+      "ano": "2021",
+      "victimas": "256"
+    },
+    {
+      "depto": "CÓRDOBA",
+      "ano": "2018",
+      "victimas": "255"
+    },
+    {
+      "depto": "NARIÑO",
+      "ano": "2022",
+      "victimas": "253"
+    },
+    {
+      "depto": "CAUCA",
+      "ano": "2019",
+      "victimas": "253"
+    },
+    {
+      "depto": "TOLIMA",
+      "ano": "2019",
+      "victimas": "249"
+    },
+    {
+      "depto": "CESAR",
+      "ano": "2025",
+      "victimas": "248"
+    },
+    {
+      "depto": "CESAR",
+      "ano": "2018",
+      "victimas": "247"
+    },
+    {
+      "depto": "SANTANDER",
+      "ano": "2012",
+      "victimas": "245"
+    },
+    {
+      "depto": "TOLIMA",
+      "ano": "2024",
+      "victimas": "244"
+    },
+    {
+      "depto": "SANTANDER",
+      "ano": "2014",
+      "victimas": "244"
+    },
+    {
+      "depto": "ATLÁNTICO",
+      "ano": "2023",
+      "victimas": "242"
+    },
+    {
+      "depto": "META",
+      "ano": "2025",
+      "victimas": "242"
+    },
+    {
+      "depto": "NORTE DE SANTANDER",
+      "ano": "2022",
+      "victimas": "242"
+    },
+    {
+      "depto": "CÓRDOBA",
+      "ano": "2024",
+      "victimas": "237"
+    },
+    {
+      "depto": "NARIÑO",
+      "ano": "2023",
+      "victimas": "234"
+    },
+    {
+      "depto": "CÓRDOBA",
+      "ano": "2016",
+      "victimas": "232"
+    },
+    {
+      "depto": "CAUCA",
+      "ano": "2018",
+      "victimas": "231"
+    },
+    {
+      "depto": "MAGDALENA",
+      "ano": "2021",
+      "victimas": "231"
+    },
+    {
+      "depto": "MAGDALENA",
+      "ano": "2022",
+      "victimas": "231"
+    },
+    {
+      "depto": "META",
+      "ano": "2022",
+      "victimas": "230"
+    },
+    {
+      "depto": "CAUCA",
+      "ano": "2016",
+      "victimas": "230"
+    },
+    {
+      "depto": "CÓRDOBA",
+      "ano": "2020",
+      "victimas": "226"
+    },
+    {
+      "depto": "CESAR",
+      "ano": "2015",
+      "victimas": "226"
+    },
+    {
+      "depto": "SANTANDER",
+      "ano": "2020",
+      "victimas": "226"
+    },
+    {
+      "depto": "CÓRDOBA",
+      "ano": "2017",
+      "victimas": "225"
+    },
+    {
+      "depto": "SANTANDER",
+      "ano": "2010",
+      "victimas": "224"
+    },
+    {
+      "depto": "CAUCA",
+      "ano": "2020",
+      "victimas": "224"
+    },
+    {
+      "depto": "HUILA",
+      "ano": "2022",
+      "victimas": "223"
+    },
+    {
+      "depto": "BOYACÁ",
+      "ano": "2022",
+      "victimas": "222"
+    },
+    {
+      "depto": "BOLÍVAR",
+      "ano": "2020",
+      "victimas": "222"
+    },
+    {
+      "depto": "CESAR",
+      "ano": "2020",
+      "victimas": "220"
+    },
+    {
+      "depto": "ATLÁNTICO",
+      "ano": "2021",
+      "victimas": "219"
+    },
+    {
+      "depto": "CESAR",
+      "ano": "2016",
+      "victimas": "218"
+    },
+    {
+      "depto": "CESAR",
+      "ano": "2011",
+      "victimas": "218"
+    },
+    {
+      "depto": "ATLÁNTICO",
+      "ano": "2024",
+      "victimas": "216"
+    },
+    {
+      "depto": "MAGDALENA",
+      "ano": "2024",
+      "victimas": "216"
+    },
+    {
+      "depto": "TOLIMA",
+      "ano": "2016",
+      "victimas": "216"
+    },
+    {
+      "depto": "RISARALDA",
+      "ano": "2023",
+      "victimas": "215"
+    },
+    {
+      "depto": "NORTE DE SANTANDER",
+      "ano": "2019",
+      "victimas": "215"
+    },
+    {
+      "depto": "CESAR",
+      "ano": "2010",
+      "victimas": "214"
+    },
+    {
+      "depto": "ATLÁNTICO",
+      "ano": "2018",
+      "victimas": "213"
+    },
+    {
+      "depto": "MAGDALENA",
+      "ano": "2025",
+      "victimas": "213"
+    },
+    {
+      "depto": "TOLIMA",
+      "ano": "2020",
+      "victimas": "211"
+    },
+    {
+      "depto": "BOLÍVAR",
+      "ano": "2018",
+      "victimas": "210"
+    },
+    {
+      "depto": "TOLIMA",
+      "ano": "2017",
+      "victimas": "207"
+    },
+    {
+      "depto": "CESAR",
+      "ano": "2013",
+      "victimas": "206"
+    },
+    {
+      "depto": "CÓRDOBA",
+      "ano": "2015",
+      "victimas": "204"
+    },
+    {
+      "depto": "NORTE DE SANTANDER",
+      "ano": "2021",
+      "victimas": "202"
+    },
+    {
+      "depto": "CESAR",
+      "ano": "2012",
+      "victimas": "202"
+    },
+    {
+      "depto": "BOLÍVAR",
+      "ano": "2019",
+      "victimas": "201"
+    },
+    {
+      "depto": "CESAR",
+      "ano": "2017",
+      "victimas": "201"
+    },
+    {
+      "depto": "MAGDALENA",
+      "ano": "2023",
+      "victimas": "200"
+    },
+    {
+      "depto": "VALLE",
+      "ano": "2026",
+      "victimas": "200"
+    },
+    {
+      "depto": "CESAR",
+      "ano": "2019",
+      "victimas": "199"
+    },
+    {
+      "depto": "TOLIMA",
+      "ano": "2015",
+      "victimas": "198"
+    },
+    {
+      "depto": "META",
+      "ano": "2023",
+      "victimas": "198"
+    },
+    {
+      "depto": "NARIÑO",
+      "ano": "2021",
+      "victimas": "196"
+    },
+    {
+      "depto": "META",
+      "ano": "2021",
+      "victimas": "196"
+    },
+    {
+      "depto": "ATLÁNTICO",
+      "ano": "2019",
+      "victimas": "195"
+    },
+    {
+      "depto": "CAUCA",
+      "ano": "2024",
+      "victimas": "194"
+    },
+    {
+      "depto": "NARIÑO",
+      "ano": "2019",
+      "victimas": "193"
+    },
+    {
+      "depto": "ATLÁNTICO",
+      "ano": "2015",
+      "victimas": "190"
+    },
+    {
+      "depto": "BOYACÁ",
+      "ano": "2025",
+      "victimas": "190"
+    },
+    {
+      "depto": "BOYACÁ",
+      "ano": "2023",
+      "victimas": "190"
+    },
+    {
+      "depto": "CAUCA",
+      "ano": "2023",
+      "victimas": "188"
+    },
+    {
+      "depto": "HUILA",
+      "ano": "2016",
+      "victimas": "186"
+    },
+    {
+      "depto": "NARIÑO",
+      "ano": "2015",
+      "victimas": "184"
+    },
+    {
+      "depto": "CAUCA",
+      "ano": "2015",
+      "victimas": "184"
+    },
+    {
+      "depto": "MAGDALENA",
+      "ano": "2019",
+      "victimas": "182"
+    },
+    {
+      "depto": "TOLIMA",
+      "ano": "2013",
+      "victimas": "182"
+    },
+    {
+      "depto": "CAUCA",
+      "ano": "2010",
+      "victimas": "182"
+    },
+    {
+      "depto": "NARIÑO",
+      "ano": "2016",
+      "victimas": "182"
+    },
+    {
+      "depto": "HUILA",
+      "ano": "2021",
+      "victimas": "181"
+    },
+    {
+      "depto": "HUILA",
+      "ano": "2010",
+      "victimas": "179"
+    },
+    {
+      "depto": "ATLÁNTICO",
+      "ano": "2020",
+      "victimas": "179"
+    },
+    {
+      "depto": "QUINDÍO",
+      "ano": "2025",
+      "victimas": "177"
+    },
+    {
+      "depto": "CESAR",
+      "ano": "2014",
+      "victimas": "177"
+    },
+    {
+      "depto": "ATLÁNTICO",
+      "ano": "2017",
+      "victimas": "177"
+    },
+    {
+      "depto": "RISARALDA",
+      "ano": "2022",
+      "victimas": "176"
+    },
+    {
+      "depto": "BOYACÁ",
+      "ano": "2018",
+      "victimas": "176"
+    },
+    {
+      "depto": "MAGDALENA",
+      "ano": "2018",
+      "victimas": "176"
+    },
+    {
+      "depto": "ATLÁNTICO",
+      "ano": "2016",
+      "victimas": "175"
+    },
+    {
+      "depto": "TOLIMA",
+      "ano": "2010",
+      "victimas": "175"
+    },
+    {
+      "depto": "BOYACÁ",
+      "ano": "2021",
+      "victimas": "175"
+    },
+    {
+      "depto": "RISARALDA",
+      "ano": "2024",
+      "victimas": "174"
+    },
+    {
+      "depto": "CAUCA",
+      "ano": "2017",
+      "victimas": "174"
+    },
+    {
+      "depto": "META",
+      "ano": "2018",
+      "victimas": "174"
+    },
+    {
+      "depto": "HUILA",
+      "ano": "2018",
+      "victimas": "172"
+    },
+    {
+      "depto": "NORTE DE SANTANDER",
+      "ano": "2020",
+      "victimas": "172"
+    },
+    {
+      "depto": "BOLÍVAR",
+      "ano": "2015",
+      "victimas": "171"
+    },
+    {
+      "depto": "NORTE DE SANTANDER",
+      "ano": "2018",
+      "victimas": "171"
+    },
+    {
+      "depto": "NORTE DE SANTANDER",
+      "ano": "2013",
+      "victimas": "171"
+    },
+    {
+      "depto": "BOYACÁ",
+      "ano": "2024",
+      "victimas": "170"
+    },
+    {
+      "depto": "NARIÑO",
+      "ano": "2017",
+      "victimas": "169"
+    },
+    {
+      "depto": "ATLÁNTICO",
+      "ano": "2013",
+      "victimas": "169"
+    },
+    {
+      "depto": "BOLÍVAR",
+      "ano": "2013",
+      "victimas": "169"
+    },
+    {
+      "depto": "HUILA",
+      "ano": "2013",
+      "victimas": "168"
+    },
+    {
+      "depto": "ATLÁNTICO",
+      "ano": "2014",
+      "victimas": "167"
+    },
+    {
+      "depto": "BOYACÁ",
+      "ano": "2017",
+      "victimas": "167"
+    },
+    {
+      "depto": "HUILA",
+      "ano": "2012",
+      "victimas": "167"
+    },
+    {
+      "depto": "NORTE DE SANTANDER",
+      "ano": "2016",
+      "victimas": "165"
+    },
+    {
+      "depto": "HUILA",
+      "ano": "2019",
+      "victimas": "165"
+    },
+    {
+      "depto": "META",
+      "ano": "2019",
+      "victimas": "165"
+    },
+    {
+      "depto": "BOYACÁ",
+      "ano": "2016",
+      "victimas": "164"
+    },
+    {
+      "depto": "BOLÍVAR",
+      "ano": "2014",
+      "victimas": "163"
+    },
+    {
+      "depto": "TOLIMA",
+      "ano": "2012",
+      "victimas": "163"
+    },
+    {
+      "depto": "BOLÍVAR",
+      "ano": "2016",
+      "victimas": "162"
+    },
+    {
+      "depto": "META",
+      "ano": "2020",
+      "victimas": "162"
+    },
+    {
+      "depto": "HUILA",
+      "ano": "2014",
+      "victimas": "162"
+    },
+    {
+      "depto": "BOYACÁ",
+      "ano": "2019",
+      "victimas": "159"
+    },
+    {
+      "depto": "BOYACÁ",
+      "ano": "2012",
+      "victimas": "158"
+    },
+    {
+      "depto": "HUILA",
+      "ano": "2011",
+      "victimas": "158"
+    },
+    {
+      "depto": "BOYACÁ",
+      "ano": "2015",
+      "victimas": "158"
+    },
+    {
+      "depto": "BOYACÁ",
+      "ano": "2013",
+      "victimas": "157"
+    },
+    {
+      "depto": "BOLÍVAR",
+      "ano": "2017",
+      "victimas": "157"
+    },
+    {
+      "depto": "NARIÑO",
+      "ano": "2018",
+      "victimas": "155"
+    },
+    {
+      "depto": "NARIÑO",
+      "ano": "2024",
+      "victimas": "154"
+    },
+    {
+      "depto": "META",
+      "ano": "2010",
+      "victimas": "154"
+    },
+    {
+      "depto": "MAGDALENA",
+      "ano": "2015",
+      "victimas": "154"
+    },
+    {
+      "depto": "HUILA",
+      "ano": "2015",
+      "victimas": "154"
+    },
+    {
+      "depto": "RISARALDA",
+      "ano": "2013",
+      "victimas": "154"
+    },
+    {
+      "depto": "CUNDINAMARCA",
+      "ano": "2026",
+      "victimas": "153"
+    },
+    {
+      "depto": "NORTE DE SANTANDER",
+      "ano": "2015",
+      "victimas": "153"
+    },
+    {
+      "depto": "NORTE DE SANTANDER",
+      "ano": "2014",
+      "victimas": "153"
+    },
+    {
+      "depto": "QUINDÍO",
+      "ano": "2024",
+      "victimas": "153"
+    },
+    {
+      "depto": "TOLIMA",
+      "ano": "2011",
+      "victimas": "152"
+    },
+    {
+      "depto": "NORTE DE SANTANDER",
+      "ano": "2010",
+      "victimas": "152"
+    },
+    {
+      "depto": "CÓRDOBA",
+      "ano": "2014",
+      "victimas": "150"
+    },
+    {
+      "depto": "MAGDALENA",
+      "ano": "2016",
+      "victimas": "150"
+    },
+    {
+      "depto": "NARIÑO",
+      "ano": "2020",
+      "victimas": "148"
+    },
+    {
+      "depto": "TOLIMA",
+      "ano": "2014",
+      "victimas": "148"
+    },
+    {
+      "depto": "RISARALDA",
+      "ano": "2021",
+      "victimas": "148"
+    },
+    {
+      "depto": "CALDAS",
+      "ano": "2024",
+      "victimas": "148"
+    },
+    {
+      "depto": "META",
+      "ano": "2015",
+      "victimas": "146"
+    },
+    {
+      "depto": "BOYACÁ",
+      "ano": "2020",
+      "victimas": "146"
+    },
+    {
+      "depto": "NORTE DE SANTANDER",
+      "ano": "2012",
+      "victimas": "146"
+    },
+    {
+      "depto": "BOYACÁ",
+      "ano": "2014",
+      "victimas": "145"
+    },
+    {
+      "depto": "BOGOTA",
+      "ano": "2026",
+      "victimas": "144"
+    },
+    {
+      "depto": "CÓRDOBA",
+      "ano": "2013",
+      "victimas": "144"
+    },
+    {
+      "depto": "GUAJIRA",
+      "ano": "2018",
+      "victimas": "143"
+    },
+    {
+      "depto": "GUAJIRA",
+      "ano": "2025",
+      "victimas": "143"
+    },
+    {
+      "depto": "NARIÑO",
+      "ano": "2013",
+      "victimas": "142"
+    },
+    {
+      "depto": "ATLÁNTICO",
+      "ano": "2012",
+      "victimas": "142"
+    },
+    {
+      "depto": "NARIÑO",
+      "ano": "2025",
+      "victimas": "142"
+    },
+    {
+      "depto": "NORTE DE SANTANDER",
+      "ano": "2017",
+      "victimas": "141"
+    },
+    {
+      "depto": "META",
+      "ano": "2012",
+      "victimas": "141"
+    },
+    {
+      "depto": "NORTE DE SANTANDER",
+      "ano": "2011",
+      "victimas": "140"
+    },
+    {
+      "depto": "META",
+      "ano": "2016",
+      "victimas": "140"
+    },
+    {
+      "depto": "HUILA",
+      "ano": "2017",
+      "victimas": "140"
+    },
+    {
+      "depto": "CAUCA",
+      "ano": "2011",
+      "victimas": "140"
+    },
+    {
+      "depto": "MAGDALENA",
+      "ano": "2017",
+      "victimas": "140"
+    },
+    {
+      "depto": "BOYACÁ",
+      "ano": "2010",
+      "victimas": "138"
+    },
+    {
+      "depto": "MAGDALENA",
+      "ano": "2013",
+      "victimas": "137"
+    },
+    {
+      "depto": "QUINDÍO",
+      "ano": "2023",
+      "victimas": "137"
+    },
+    {
+      "depto": "META",
+      "ano": "2011",
+      "victimas": "136"
+    },
+    {
+      "depto": "RISARALDA",
+      "ano": "2025",
+      "victimas": "136"
+    },
+    {
+      "depto": "META",
+      "ano": "2013",
+      "victimas": "135"
+    },
+    {
+      "depto": "CAUCA",
+      "ano": "2014",
+      "victimas": "134"
+    },
+    {
+      "depto": "GUAJIRA",
+      "ano": "2022",
+      "victimas": "133"
+    },
+    {
+      "depto": "BOLÍVAR",
+      "ano": "2012",
+      "victimas": "133"
+    },
+    {
+      "depto": "RISARALDA",
+      "ano": "2016",
+      "victimas": "132"
+    },
+    {
+      "depto": "CAUCA",
+      "ano": "2013",
+      "victimas": "132"
+    },
+    {
+      "depto": "HUILA",
+      "ano": "2020",
+      "victimas": "131"
+    },
+    {
+      "depto": "GUAJIRA",
+      "ano": "2019",
+      "victimas": "130"
+    },
+    {
+      "depto": "RISARALDA",
+      "ano": "2015",
+      "victimas": "128"
+    },
+    {
+      "depto": "RISARALDA",
+      "ano": "2019",
+      "victimas": "127"
+    },
+    {
+      "depto": "NARIÑO",
+      "ano": "2014",
+      "victimas": "127"
+    },
+    {
+      "depto": "CALDAS",
+      "ano": "2025",
+      "victimas": "126"
+    },
+    {
+      "depto": "CALDAS",
+      "ano": "2018",
+      "victimas": "124"
+    },
+    {
+      "depto": "MAGDALENA",
+      "ano": "2014",
+      "victimas": "124"
+    },
+    {
+      "depto": "GUAJIRA",
+      "ano": "2014",
+      "victimas": "123"
+    },
+    {
+      "depto": "MAGDALENA",
+      "ano": "2020",
+      "victimas": "123"
+    },
+    {
+      "depto": "CAUCA",
+      "ano": "2012",
+      "victimas": "122"
+    },
+    {
+      "depto": "BOLÍVAR",
+      "ano": "2011",
+      "victimas": "122"
+    },
+    {
+      "depto": "RISARALDA",
+      "ano": "2018",
+      "victimas": "120"
+    },
+    {
+      "depto": "META",
+      "ano": "2017",
+      "victimas": "119"
+    },
+    {
+      "depto": "BOYACÁ",
+      "ano": "2011",
+      "victimas": "118"
+    },
+    {
+      "depto": "CASANARE",
+      "ano": "2022",
+      "victimas": "118"
+    },
+    {
+      "depto": "ATLÁNTICO",
+      "ano": "2010",
+      "victimas": "118"
+    },
+    {
+      "depto": "GUAJIRA",
+      "ano": "2023",
+      "victimas": "118"
+    },
+    {
+      "depto": "QUINDÍO",
+      "ano": "2021",
+      "victimas": "118"
+    },
+    {
+      "depto": "CALDAS",
+      "ano": "2022",
+      "victimas": "117"
+    },
+    {
+      "depto": "RISARALDA",
+      "ano": "2012",
+      "victimas": "117"
+    },
+    {
+      "depto": "SANTANDER",
+      "ano": "2026",
+      "victimas": "116"
+    },
+    {
+      "depto": "GUAJIRA",
+      "ano": "2012",
+      "victimas": "116"
+    },
+    {
+      "depto": "GUAJIRA",
+      "ano": "2021",
+      "victimas": "115"
+    },
+    {
+      "depto": "QUINDÍO",
+      "ano": "2022",
+      "victimas": "115"
+    },
+    {
+      "depto": "ATLÁNTICO",
+      "ano": "2011",
+      "victimas": "115"
+    },
+    {
+      "depto": "RISARALDA",
+      "ano": "2017",
+      "victimas": "113"
+    },
+    {
+      "depto": "CALDAS",
+      "ano": "2012",
+      "victimas": "113"
+    },
+    {
+      "depto": "CASANARE",
+      "ano": "2016",
+      "victimas": "111"
+    },
+    {
+      "depto": "CASANARE",
+      "ano": "2013",
+      "victimas": "110"
+    },
+    {
+      "depto": "GUAJIRA",
+      "ano": "2024",
+      "victimas": "110"
+    },
+    {
+      "depto": "RISARALDA",
+      "ano": "2020",
+      "victimas": "110"
+    },
+    {
+      "depto": "META",
+      "ano": "2014",
+      "victimas": "109"
+    },
+    {
+      "depto": "RISARALDA",
+      "ano": "2014",
+      "victimas": "108"
+    },
+    {
+      "depto": "CASANARE",
+      "ano": "2023",
+      "victimas": "106"
+    },
+    {
+      "depto": "BOLÍVAR",
+      "ano": "2010",
+      "victimas": "106"
+    },
+    {
+      "depto": "CALDAS",
+      "ano": "2013",
+      "victimas": "106"
+    },
+    {
+      "depto": "CASANARE",
+      "ano": "2019",
+      "victimas": "105"
+    },
+    {
+      "depto": "NORTE DE SANTANDER",
+      "ano": "2026",
+      "victimas": "104"
+    },
+    {
+      "depto": "CALDAS",
+      "ano": "2010",
+      "victimas": "103"
+    },
+    {
+      "depto": "CALDAS",
+      "ano": "2021",
+      "victimas": "103"
+    },
+    {
+      "depto": "CASANARE",
+      "ano": "2014",
+      "victimas": "102"
+    },
+    {
+      "depto": "CALDAS",
+      "ano": "2023",
+      "victimas": "102"
+    },
+    {
+      "depto": "NARIÑO",
+      "ano": "2010",
+      "victimas": "101"
+    },
+    {
+      "depto": "CASANARE",
+      "ano": "2018",
+      "victimas": "100"
+    },
+    {
+      "depto": "MAGDALENA",
+      "ano": "2012",
+      "victimas": "100"
+    },
+    {
+      "depto": "MAGDALENA",
+      "ano": "2011",
+      "victimas": "100"
+    },
+    {
+      "depto": "GUAJIRA",
+      "ano": "2017",
+      "victimas": "100"
+    },
+    {
+      "depto": "RISARALDA",
+      "ano": "2010",
+      "victimas": "100"
+    },
+    {
+      "depto": "NARIÑO",
+      "ano": "2012",
+      "victimas": "99"
+    },
+    {
+      "depto": "MAGDALENA",
+      "ano": "2010",
+      "victimas": "99"
+    },
+    {
+      "depto": "NARIÑO",
+      "ano": "2011",
+      "victimas": "99"
+    },
+    {
+      "depto": "CÓRDOBA",
+      "ano": "2011",
+      "victimas": "99"
+    },
+    {
+      "depto": "CALDAS",
+      "ano": "2014",
+      "victimas": "99"
+    },
+    {
+      "depto": "CÓRDOBA",
+      "ano": "2012",
+      "victimas": "98"
+    },
+    {
+      "depto": "SUCRE",
+      "ano": "2025",
+      "victimas": "98"
+    },
+    {
+      "depto": "CALDAS",
+      "ano": "2017",
+      "victimas": "98"
+    },
+    {
+      "depto": "SUCRE",
+      "ano": "2023",
+      "victimas": "97"
+    },
+    {
+      "depto": "SUCRE",
+      "ano": "2022",
+      "victimas": "97"
+    },
+    {
+      "depto": "QUINDÍO",
+      "ano": "2017",
+      "victimas": "96"
+    },
+    {
+      "depto": "CALDAS",
+      "ano": "2015",
+      "victimas": "95"
+    },
+    {
+      "depto": "CALDAS",
+      "ano": "2019",
+      "victimas": "94"
+    },
+    {
+      "depto": "CALDAS",
+      "ano": "2016",
+      "victimas": "93"
+    },
+    {
+      "depto": "GUAJIRA",
+      "ano": "2010",
+      "victimas": "93"
+    },
+    {
+      "depto": "CASANARE",
+      "ano": "2021",
+      "victimas": "93"
+    },
+    {
+      "depto": "QUINDÍO",
+      "ano": "2016",
+      "victimas": "93"
+    },
+    {
+      "depto": "SUCRE",
+      "ano": "2024",
+      "victimas": "92"
+    },
+    {
+      "depto": "CASANARE",
+      "ano": "2024",
+      "victimas": "91"
+    },
+    {
+      "depto": "RISARALDA",
+      "ano": "2011",
+      "victimas": "91"
+    },
+    {
+      "depto": "CALDAS",
+      "ano": "2011",
+      "victimas": "91"
+    },
+    {
+      "depto": "BOLÍVAR",
+      "ano": "2026",
+      "victimas": "90"
+    },
+    {
+      "depto": "SUCRE",
+      "ano": "2021",
+      "victimas": "90"
+    },
+    {
+      "depto": "META",
+      "ano": "2026",
+      "victimas": "90"
+    },
+    {
+      "depto": "GUAJIRA",
+      "ano": "2013",
+      "victimas": "89"
+    },
+    {
+      "depto": "CASANARE",
+      "ano": "2015",
+      "victimas": "88"
+    },
+    {
+      "depto": "QUINDÍO",
+      "ano": "2012",
+      "victimas": "88"
+    },
+    {
+      "depto": "GUAJIRA",
+      "ano": "2011",
+      "victimas": "88"
+    },
+    {
+      "depto": "GUAJIRA",
+      "ano": "2015",
+      "victimas": "88"
+    },
+    {
+      "depto": "ARAUCA",
+      "ano": "2023",
+      "victimas": "88"
+    },
+    {
+      "depto": "GUAJIRA",
+      "ano": "2016",
+      "victimas": "86"
+    },
+    {
+      "depto": "QUINDÍO",
+      "ano": "2019",
+      "victimas": "86"
+    },
+    {
+      "depto": "QUINDÍO",
+      "ano": "2014",
+      "victimas": "86"
+    },
+    {
+      "depto": "CASANARE",
+      "ano": "2020",
+      "victimas": "85"
+    },
+    {
+      "depto": "CASANARE",
+      "ano": "2025",
+      "victimas": "84"
+    },
+    {
+      "depto": "HUILA",
+      "ano": "2026",
+      "victimas": "83"
+    },
+    {
+      "depto": "CÓRDOBA",
+      "ano": "2010",
+      "victimas": "82"
+    },
+    {
+      "depto": "SUCRE",
+      "ano": "2013",
+      "victimas": "80"
+    },
+    {
+      "depto": "SUCRE",
+      "ano": "2018",
+      "victimas": "80"
+    },
+    {
+      "depto": "SUCRE",
+      "ano": "2017",
+      "victimas": "78"
+    },
+    {
+      "depto": "CESAR",
+      "ano": "2026",
+      "victimas": "78"
+    },
+    {
+      "depto": "GUAJIRA",
+      "ano": "2020",
+      "victimas": "77"
+    },
+    {
+      "depto": "CASANARE",
+      "ano": "2017",
+      "victimas": "77"
+    },
+    {
+      "depto": "SUCRE",
+      "ano": "2016",
+      "victimas": "77"
+    },
+    {
+      "depto": "SUCRE",
+      "ano": "2014",
+      "victimas": "76"
+    },
+    {
+      "depto": "CASANARE",
+      "ano": "2012",
+      "victimas": "76"
+    },
+    {
+      "depto": "QUINDÍO",
+      "ano": "2018",
+      "victimas": "76"
+    },
+    {
+      "depto": "SUCRE",
+      "ano": "2015",
+      "victimas": "75"
+    },
+    {
+      "depto": "CALDAS",
+      "ano": "2020",
+      "victimas": "75"
+    },
+    {
+      "depto": "ARAUCA",
+      "ano": "2020",
+      "victimas": "74"
+    },
+    {
+      "depto": "QUINDÍO",
+      "ano": "2015",
+      "victimas": "73"
+    },
+    {
+      "depto": "SUCRE",
+      "ano": "2010",
+      "victimas": "72"
+    },
+    {
+      "depto": "SUCRE",
+      "ano": "2011",
+      "victimas": "72"
+    },
+    {
+      "depto": "CAQUETÁ",
+      "ano": "2022",
+      "victimas": "70"
+    },
+    {
+      "depto": "PUTUMAYO",
+      "ano": "2022",
+      "victimas": "69"
+    },
+    {
+      "depto": "PUTUMAYO",
+      "ano": "2025",
+      "victimas": "69"
+    },
+    {
+      "depto": "QUINDÍO",
+      "ano": "2020",
+      "victimas": "67"
+    },
+    {
+      "depto": "CAUCA",
+      "ano": "2026",
+      "victimas": "67"
+    },
+    {
+      "depto": "PUTUMAYO",
+      "ano": "2021",
+      "victimas": "67"
+    },
+    {
+      "depto": "CAQUETÁ",
+      "ano": "2021",
+      "victimas": "67"
+    },
+    {
+      "depto": "ARAUCA",
+      "ano": "2021",
+      "victimas": "66"
+    },
+    {
+      "depto": "CAQUETÁ",
+      "ano": "2019",
+      "victimas": "66"
+    },
+    {
+      "depto": "ARAUCA",
+      "ano": "2024",
+      "victimas": "66"
+    },
+    {
+      "depto": "SUCRE",
+      "ano": "2019",
+      "victimas": "66"
+    },
+    {
+      "depto": "PUTUMAYO",
+      "ano": "2023",
+      "victimas": "64"
+    },
+    {
+      "depto": "SUCRE",
+      "ano": "2020",
+      "victimas": "63"
+    },
+    {
+      "depto": "ARAUCA",
+      "ano": "2025",
+      "victimas": "63"
+    },
+    {
+      "depto": "ATLÁNTICO",
+      "ano": "2026",
+      "victimas": "62"
+    },
+    {
+      "depto": "CASANARE",
+      "ano": "2011",
+      "victimas": "61"
+    },
+    {
+      "depto": "ARAUCA",
+      "ano": "2019",
+      "victimas": "61"
+    },
+    {
+      "depto": "QUINDÍO",
+      "ano": "2010",
+      "victimas": "60"
+    },
+    {
+      "depto": "SUCRE",
+      "ano": "2012",
+      "victimas": "57"
+    },
+    {
+      "depto": "QUINDÍO",
+      "ano": "2013",
+      "victimas": "57"
+    },
+    {
+      "depto": "PUTUMAYO",
+      "ano": "2024",
+      "victimas": "57"
+    },
+    {
+      "depto": "ARAUCA",
+      "ano": "2018",
+      "victimas": "57"
+    },
+    {
+      "depto": "ARAUCA",
+      "ano": "2022",
+      "victimas": "56"
+    },
+    {
+      "depto": "CÓRDOBA",
+      "ano": "2026",
+      "victimas": "54"
+    },
+    {
+      "depto": "TOLIMA",
+      "ano": "2026",
+      "victimas": "52"
+    },
+    {
+      "depto": "CAQUETÁ",
+      "ano": "2020",
+      "victimas": "50"
+    },
+    {
+      "depto": "MAGDALENA",
+      "ano": "2026",
+      "victimas": "49"
+    },
+    {
+      "depto": "PUTUMAYO",
+      "ano": "2018",
+      "victimas": "48"
+    },
+    {
+      "depto": "CAQUETÁ",
+      "ano": "2023",
+      "victimas": "48"
+    },
+    {
+      "depto": "BOYACÁ",
+      "ano": "2026",
+      "victimas": "47"
+    },
+    {
+      "depto": "QUINDÍO",
+      "ano": "2011",
+      "victimas": "47"
+    },
+    {
+      "depto": "ARAUCA",
+      "ano": "2014",
+      "victimas": "46"
+    },
+    {
+      "depto": "CASANARE",
+      "ano": "2010",
+      "victimas": "45"
+    },
+    {
+      "depto": "CAQUETÁ",
+      "ano": "2025",
+      "victimas": "45"
+    },
+    {
+      "depto": "PUTUMAYO",
+      "ano": "2020",
+      "victimas": "45"
+    },
+    {
+      "depto": "ARAUCA",
+      "ano": "2013",
+      "victimas": "43"
+    },
+    {
+      "depto": "CAQUETÁ",
+      "ano": "2024",
+      "victimas": "42"
+    },
+    {
+      "depto": "CAQUETÁ",
+      "ano": "2015",
+      "victimas": "41"
+    },
+    {
+      "depto": "CHOCÓ",
+      "ano": "2024",
+      "victimas": "40"
+    },
+    {
+      "depto": "PUTUMAYO",
+      "ano": "2019",
+      "victimas": "40"
+    },
+    {
+      "depto": "SUCRE",
+      "ano": "2026",
+      "victimas": "40"
+    },
+    {
+      "depto": "ARAUCA",
+      "ano": "2011",
+      "victimas": "39"
+    },
+    {
+      "depto": "CAQUETÁ",
+      "ano": "2018",
+      "victimas": "39"
+    },
+    {
+      "depto": "ARAUCA",
+      "ano": "2010",
+      "victimas": "38"
+    },
+    {
+      "depto": "CAQUETÁ",
+      "ano": "2013",
+      "victimas": "37"
+    },
+    {
+      "depto": "RISARALDA",
+      "ano": "2026",
+      "victimas": "37"
+    },
+    {
+      "depto": "NARIÑO",
+      "ano": "2026",
+      "victimas": "36"
+    },
+    {
+      "depto": "CAQUETÁ",
+      "ano": "2014",
+      "victimas": "36"
+    },
+    {
+      "depto": "CHOCÓ",
+      "ano": "2023",
+      "victimas": "36"
+    },
+    {
+      "depto": "CHOCÓ",
+      "ano": "2018",
+      "victimas": "35"
+    },
+    {
+      "depto": "CHOCÓ",
+      "ano": "2022",
+      "victimas": "34"
+    },
+    {
+      "depto": "ARAUCA",
+      "ano": "2016",
+      "victimas": "34"
+    },
+    {
+      "depto": "CAQUETÁ",
+      "ano": "2017",
+      "victimas": "33"
+    },
+    {
+      "depto": "ARAUCA",
+      "ano": "2017",
+      "victimas": "33"
+    },
+    {
+      "depto": "CHOCÓ",
+      "ano": "2019",
+      "victimas": "33"
+    },
+    {
+      "depto": "ARAUCA",
+      "ano": "2012",
+      "victimas": "33"
+    },
+    {
+      "depto": "CASANARE",
+      "ano": "2026",
+      "victimas": "32"
+    },
+    {
+      "depto": "CAQUETÁ",
+      "ano": "2016",
+      "victimas": "31"
+    },
+    {
+      "depto": "CAQUETÁ",
+      "ano": "2012",
+      "victimas": "31"
+    },
+    {
+      "depto": "ARAUCA",
+      "ano": "2015",
+      "victimas": "30"
+    },
+    {
+      "depto": "CHOCÓ",
+      "ano": "2025",
+      "victimas": "30"
+    },
+    {
+      "depto": "PUTUMAYO",
+      "ano": "2014",
+      "victimas": "30"
+    },
+    {
+      "depto": "CALDAS",
+      "ano": "2026",
+      "victimas": "29"
+    },
+    {
+      "depto": "ARAUCA",
+      "ano": "2026",
+      "victimas": "29"
+    },
+    {
+      "depto": "CHOCÓ",
+      "ano": "2013",
+      "victimas": "27"
+    },
+    {
+      "depto": "PUTUMAYO",
+      "ano": "2016",
+      "victimas": "27"
+    },
+    {
+      "depto": "SAN ANDRÉS",
+      "ano": "2019",
+      "victimas": "26"
+    },
+    {
+      "depto": "CAQUETÁ",
+      "ano": "2011",
+      "victimas": "26"
+    },
+    {
+      "depto": "CHOCÓ",
+      "ano": "2021",
+      "victimas": "24"
+    },
+    {
+      "depto": "QUINDÍO",
+      "ano": "2026",
+      "victimas": "23"
+    },
+    {
+      "depto": "CHOCÓ",
+      "ano": "2020",
+      "victimas": "23"
+    },
+    {
+      "depto": "PUTUMAYO",
+      "ano": "2013",
+      "victimas": "22"
+    },
+    {
+      "depto": "PUTUMAYO",
+      "ano": "2012",
+      "victimas": "21"
+    },
+    {
+      "depto": "GUAJIRA",
+      "ano": "2026",
+      "victimas": "20"
+    },
+    {
+      "depto": "SAN ANDRÉS",
+      "ano": "2021",
+      "victimas": "20"
+    },
+    {
+      "depto": "CAQUETÁ",
+      "ano": "2010",
+      "victimas": "18"
+    },
+    {
+      "depto": "PUTUMAYO",
+      "ano": "2017",
+      "victimas": "18"
+    },
+    {
+      "depto": "SAN ANDRÉS",
+      "ano": "2023",
+      "victimas": "18"
+    },
+    {
+      "depto": "SAN ANDRÉS",
+      "ano": "2022",
+      "victimas": "18"
+    },
+    {
+      "depto": "SAN ANDRÉS",
+      "ano": "2024",
+      "victimas": "17"
+    },
+    {
+      "depto": "PUTUMAYO",
+      "ano": "2010",
+      "victimas": "15"
+    },
+    {
+      "depto": "SAN ANDRÉS",
+      "ano": "2014",
+      "victimas": "15"
+    },
+    {
+      "depto": "CHOCÓ",
+      "ano": "2012",
+      "victimas": "14"
+    },
+    {
+      "depto": "PUTUMAYO",
+      "ano": "2026",
+      "victimas": "14"
+    },
+    {
+      "depto": "CHOCÓ",
+      "ano": "2011",
+      "victimas": "14"
+    },
+    {
+      "depto": "SAN ANDRÉS",
+      "ano": "2018",
+      "victimas": "13"
+    },
+    {
+      "depto": "GUAVIARE",
+      "ano": "2022",
+      "victimas": "13"
+    },
+    {
+      "depto": "CAQUETÁ",
+      "ano": "2026",
+      "victimas": "13"
+    },
+    {
+      "depto": "SAN ANDRÉS",
+      "ano": "2010",
+      "victimas": "12"
+    },
+    {
+      "depto": "PUTUMAYO",
+      "ano": "2015",
+      "victimas": "12"
+    },
+    {
+      "depto": "SAN ANDRÉS",
+      "ano": "2012",
+      "victimas": "12"
+    },
+    {
+      "depto": "CHOCÓ",
+      "ano": "2017",
+      "victimas": "12"
+    },
+    {
+      "depto": "VICHADA",
+      "ano": "2014",
+      "victimas": "12"
+    },
+    {
+      "depto": "SAN ANDRÉS",
+      "ano": "2025",
+      "victimas": "12"
+    },
+    {
+      "depto": "SAN ANDRÉS",
+      "ano": "2013",
+      "victimas": "11"
+    },
+    {
+      "depto": "SAN ANDRÉS",
+      "ano": "2017",
+      "victimas": "11"
+    },
+    {
+      "depto": "PUTUMAYO",
+      "ano": "2011",
+      "victimas": "11"
+    },
+    {
+      "depto": "GUAVIARE",
+      "ano": "2023",
+      "victimas": "10"
+    },
+    {
+      "depto": "SAN ANDRÉS",
+      "ano": "2020",
+      "victimas": "8"
+    },
+    {
+      "depto": "SAN ANDRÉS",
+      "ano": "2015",
+      "victimas": "8"
+    },
+    {
+      "depto": "CHOCÓ",
+      "ano": "2014",
+      "victimas": "8"
+    },
+    {
+      "depto": "CHOCÓ",
+      "ano": "2015",
+      "victimas": "8"
+    },
+    {
+      "depto": "GUAVIARE",
+      "ano": "2024",
+      "victimas": "8"
+    },
+    {
+      "depto": "GUAVIARE",
+      "ano": "2021",
+      "victimas": "7"
+    },
+    {
+      "depto": "CHOCÓ",
+      "ano": "2016",
+      "victimas": "7"
+    },
+    {
+      "depto": "GUAVIARE",
+      "ano": "2025",
+      "victimas": "7"
+    },
+    {
+      "depto": "GUAVIARE",
+      "ano": "2020",
+      "victimas": "7"
+    },
+    {
+      "depto": "GUAVIARE",
+      "ano": "2019",
+      "victimas": "7"
+    },
+    {
+      "depto": "SAN ANDRÉS",
+      "ano": "2011",
+      "victimas": "7"
+    },
+    {
+      "depto": "VICHADA",
+      "ano": "2025",
+      "victimas": "7"
+    },
+    {
+      "depto": "VICHADA",
+      "ano": "2015",
+      "victimas": "6"
+    },
+    {
+      "depto": "VICHADA",
+      "ano": "2023",
+      "victimas": "6"
+    },
+    {
+      "depto": "GUAVIARE",
+      "ano": "2013",
+      "victimas": "6"
+    },
+    {
+      "depto": "GUAVIARE",
+      "ano": "2016",
+      "victimas": "6"
+    },
+    {
+      "depto": "AMAZONAS",
+      "ano": "2018",
+      "victimas": "5"
+    },
+    {
+      "depto": "VICHADA",
+      "ano": "2013",
+      "victimas": "5"
+    },
+    {
+      "depto": "VICHADA",
+      "ano": "2011",
+      "victimas": "5"
+    },
+    {
+      "depto": "VICHADA",
+      "ano": "2020",
+      "victimas": "5"
+    },
+    {
+      "depto": "GUAINÍA",
+      "ano": "2023",
+      "victimas": "5"
+    },
+    {
+      "depto": "GUAVIARE",
+      "ano": "2018",
+      "victimas": "5"
+    },
+    {
+      "depto": "CHOCÓ",
+      "ano": "2026",
+      "victimas": "4"
+    },
+    {
+      "depto": "VICHADA",
+      "ano": "2024",
+      "victimas": "4"
+    },
+    {
+      "depto": "GUAVIARE",
+      "ano": "2010",
+      "victimas": "4"
+    },
+    {
+      "depto": "VICHADA",
+      "ano": "2017",
+      "victimas": "4"
+    },
+    {
+      "depto": "VICHADA",
+      "ano": "2022",
+      "victimas": "4"
+    },
+    {
+      "depto": "SAN ANDRÉS",
+      "ano": "2016",
+      "victimas": "4"
+    },
+    {
+      "depto": "GUAINÍA",
+      "ano": "2019",
+      "victimas": "4"
+    },
+    {
+      "depto": "VICHADA",
+      "ano": "2012",
+      "victimas": "4"
+    },
+    {
+      "depto": "VICHADA",
+      "ano": "2019",
+      "victimas": "4"
+    },
+    {
+      "depto": "VICHADA",
+      "ano": "2010",
+      "victimas": "3"
+    },
+    {
+      "depto": "GUAINÍA",
+      "ano": "2021",
+      "victimas": "3"
+    },
+    {
+      "depto": "SAN ANDRÉS",
+      "ano": "2026",
+      "victimas": "3"
+    },
+    {
+      "depto": "GUAVIARE",
+      "ano": "2012",
+      "victimas": "3"
+    },
+    {
+      "depto": "GUAVIARE",
+      "ano": "2014",
+      "victimas": "3"
+    },
+    {
+      "depto": "VICHADA",
+      "ano": "2018",
+      "victimas": "3"
+    },
+    {
+      "depto": "AMAZONAS",
+      "ano": "2021",
+      "victimas": "3"
+    },
+    {
+      "depto": "AMAZONAS",
+      "ano": "2019",
+      "victimas": "2"
+    },
+    {
+      "depto": "AMAZONAS",
+      "ano": "2024",
+      "victimas": "2"
+    },
+    {
+      "depto": "VICHADA",
+      "ano": "2016",
+      "victimas": "2"
+    },
+    {
+      "depto": "AMAZONAS",
+      "ano": "2022",
+      "victimas": "2"
+    },
+    {
+      "depto": "AMAZONAS",
+      "ano": "2025",
+      "victimas": "2"
+    },
+    {
+      "depto": "GUAVIARE",
+      "ano": "2026",
+      "victimas": "2"
+    },
+    {
+      "depto": "GUAINÍA",
+      "ano": "2017",
+      "victimas": "2"
+    },
+    {
+      "depto": "CHOCÓ",
+      "ano": "2010",
+      "victimas": "2"
+    },
+    {
+      "depto": "AMAZONAS",
+      "ano": "2010",
+      "victimas": "2"
+    },
+    {
+      "depto": "GUAINÍA",
+      "ano": "2025",
+      "victimas": "1"
+    },
+    {
+      "depto": "AMAZONAS",
+      "ano": "2026",
+      "victimas": "1"
+    },
+    {
+      "depto": "VAUPÉS",
+      "ano": "2019",
+      "victimas": "1"
+    },
+    {
+      "depto": "VAUPÉS",
+      "ano": "2018",
+      "victimas": "1"
+    },
+    {
+      "depto": "VAUPÉS",
+      "ano": "2024",
+      "victimas": "1"
+    },
+    {
+      "depto": "GUAVIARE",
+      "ano": "2015",
+      "victimas": "1"
+    },
+    {
+      "depto": "GUAINÍA",
+      "ano": "2020",
+      "victimas": "1"
+    },
+    {
+      "depto": "VAUPÉS",
+      "ano": "2020",
+      "victimas": "1"
+    },
+    {
+      "depto": "AMAZONAS",
+      "ano": "2014",
+      "victimas": "1"
+    },
+    {
+      "depto": "GUAVIARE",
+      "ano": "2017",
+      "victimas": "1"
+    },
+    {
+      "depto": "AMAZONAS",
+      "ano": "2017",
+      "victimas": "1"
+    },
+    {
+      "depto": "VICHADA",
+      "ano": "2021",
+      "victimas": "1"
+    },
+    {
+      "depto": "GUAINÍA",
+      "ano": "2022",
+      "victimas": "1"
+    },
+    {
+      "depto": "AMAZONAS",
+      "ano": "2016",
+      "victimas": "1"
+    },
+    {
+      "depto": "AMAZONAS",
+      "ano": "2012",
+      "victimas": "1"
+    }
+  ]
+}

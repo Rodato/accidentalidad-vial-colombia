@@ -1,0 +1,474 @@
+{
+  "porVigencia": [
+    {
+      "vigencia": "2019",
+      "multas": "3600339",
+      "valor": "1848206844619",
+      "pagadas": "2327217"
+    },
+    {
+      "vigencia": "2020",
+      "multas": "3634365",
+      "valor": "1989132126744",
+      "pagadas": "1999610"
+    },
+    {
+      "vigencia": "2021",
+      "multas": "3197002",
+      "valor": "1815146857118",
+      "pagadas": "1679562"
+    },
+    {
+      "vigencia": "2022",
+      "multas": "4444577",
+      "valor": "2658183098414",
+      "pagadas": "2118869"
+    },
+    {
+      "vigencia": "2023",
+      "multas": "5081918",
+      "valor": "3417881518770",
+      "pagadas": "2033591"
+    },
+    {
+      "vigencia": "2024",
+      "multas": "5275987",
+      "valor": "3903514952820",
+      "pagadas": "2100403"
+    }
+  ],
+  "porDepto": [
+    {
+      "depto": "Antioquia",
+      "multas": "5045434",
+      "valor": "3080480026982"
+    },
+    {
+      "depto": "Bogota D.C.",
+      "multas": "3871898",
+      "valor": "1947630299814"
+    },
+    {
+      "depto": "Valle del Cauca",
+      "multas": "2770147",
+      "valor": "1684286020948"
+    },
+    {
+      "depto": "Atlantico",
+      "multas": "1481987",
+      "valor": "776646909543"
+    },
+    {
+      "depto": "ANTIOQUIA",
+      "multas": "1397482",
+      "valor": "1040741939367"
+    },
+    {
+      "depto": "VALLE DEL CAUCA",
+      "multas": "1035781",
+      "valor": "822294329102"
+    },
+    {
+      "depto": "BOGOTA D.C.",
+      "multas": "972321",
+      "valor": "597831787700"
+    },
+    {
+      "depto": "Cundinamarca",
+      "multas": "960140",
+      "valor": "586467562942"
+    },
+    {
+      "depto": "Magdalena",
+      "multas": "730781",
+      "valor": "443539320991"
+    },
+    {
+      "depto": "Norte de Santander",
+      "multas": "601273",
+      "valor": "390389354990"
+    },
+    {
+      "depto": "Cauca",
+      "multas": "495314",
+      "valor": "319974007375"
+    },
+    {
+      "depto": "Santander",
+      "multas": "470212",
+      "valor": "303026664824"
+    },
+    {
+      "depto": "Bolivar",
+      "multas": "454939",
+      "valor": "275789986924"
+    },
+    {
+      "depto": "Cesar",
+      "multas": "435955",
+      "valor": "257682327118"
+    },
+    {
+      "depto": "Huila",
+      "multas": "359383",
+      "valor": "204757809217"
+    },
+    {
+      "depto": "Caldas",
+      "multas": "264750",
+      "valor": "153768520379"
+    },
+    {
+      "depto": "ATLANTICO",
+      "multas": "259345",
+      "valor": "201564728561"
+    },
+    {
+      "depto": "CUNDINAMARCA",
+      "multas": "241142",
+      "valor": "177617506548"
+    },
+    {
+      "depto": "Narino",
+      "multas": "230768",
+      "valor": "160751035834"
+    },
+    {
+      "depto": "Boyaca",
+      "multas": "228892",
+      "valor": "139378261210"
+    },
+    {
+      "depto": "Meta",
+      "multas": "223327",
+      "valor": "142626850775"
+    },
+    {
+      "depto": "Risaralda",
+      "multas": "204679",
+      "valor": "119298786592"
+    },
+    {
+      "depto": "Tolima",
+      "multas": "183156",
+      "valor": "124412969801"
+    },
+    {
+      "depto": "Quindio",
+      "multas": "177722",
+      "valor": "92669270971"
+    },
+    {
+      "depto": "Sucre",
+      "multas": "175095",
+      "valor": "98237672773"
+    },
+    {
+      "depto": "NORTE DE SANTANDER",
+      "multas": "155940",
+      "valor": "128213272925"
+    },
+    {
+      "depto": "CESAR",
+      "multas": "153974",
+      "valor": "103103821808"
+    },
+    {
+      "depto": "La Guajira",
+      "multas": "147836",
+      "valor": "91102704492"
+    },
+    {
+      "depto": "Cordoba",
+      "multas": "144358",
+      "valor": "119933427929"
+    },
+    {
+      "depto": "MAGDALENA",
+      "multas": "143865",
+      "valor": "106123491874"
+    },
+    {
+      "depto": "SANTANDER",
+      "multas": "111669",
+      "valor": "91640833297"
+    },
+    {
+      "depto": "CAUCA",
+      "multas": "100882",
+      "valor": "78800542982"
+    },
+    {
+      "depto": "Casanare",
+      "multas": "91551",
+      "valor": "67371361250"
+    },
+    {
+      "depto": "CALDAS",
+      "multas": "87207",
+      "valor": "62807537979"
+    },
+    {
+      "depto": "Caqueta",
+      "multas": "82762",
+      "valor": "50129038422"
+    },
+    {
+      "depto": "HUILA",
+      "multas": "79295",
+      "valor": "55140061606"
+    },
+    {
+      "depto": "LA GUAJIRA",
+      "multas": "70269",
+      "valor": "50518965776"
+    },
+    {
+      "depto": "BOLIVAR",
+      "multas": "64190",
+      "valor": "50384964486"
+    },
+    {
+      "depto": "Putumayo",
+      "multas": "57597",
+      "valor": "43965138674"
+    },
+    {
+      "depto": "RISARALDA",
+      "multas": "53196",
+      "valor": "38197507581"
+    },
+    {
+      "depto": "BOYACA",
+      "multas": "52701",
+      "valor": "48500411751"
+    },
+    {
+      "depto": "NARINO",
+      "multas": "52031",
+      "valor": "45350009362"
+    },
+    {
+      "depto": "QUINDIO",
+      "multas": "47287",
+      "valor": "31648290203"
+    },
+    {
+      "depto": "TOLIMA",
+      "multas": "44331",
+      "valor": "41842058454"
+    },
+    {
+      "depto": "META",
+      "multas": "40503",
+      "valor": "31425312072"
+    },
+    {
+      "depto": "CORDOBA",
+      "multas": "31727",
+      "valor": "31862023836"
+    },
+    {
+      "depto": "SUCRE",
+      "multas": "24073",
+      "valor": "17406092408"
+    },
+    {
+      "depto": "Arauca",
+      "multas": "22327",
+      "valor": "25581347866"
+    },
+    {
+      "depto": "Choco",
+      "multas": "18628",
+      "valor": "11663432133"
+    },
+    {
+      "depto": "CASANARE",
+      "multas": "16903",
+      "valor": "17696704780"
+    },
+    {
+      "depto": "San Andres y Providencia",
+      "multas": "15630",
+      "valor": "9388574522"
+    },
+    {
+      "depto": "CAQUETA",
+      "multas": "12512",
+      "valor": "9625179122"
+    },
+    {
+      "depto": "PUTUMAYO",
+      "multas": "10896",
+      "valor": "10334043438"
+    },
+    {
+      "depto": "Guaviare",
+      "multas": "7391",
+      "valor": "5108221470"
+    },
+    {
+      "depto": "CHOCO",
+      "multas": "6375",
+      "valor": "5158197403"
+    },
+    {
+      "depto": "Guainia",
+      "multas": "3494",
+      "valor": "2047878901"
+    },
+    {
+      "depto": "ARAUCA",
+      "multas": "2907",
+      "valor": "2038851520"
+    },
+    {
+      "depto": "GUAINIA",
+      "multas": "2031",
+      "valor": "1668776236"
+    },
+    {
+      "depto": "GUAVIARE",
+      "multas": "2022",
+      "valor": "1645917202"
+    },
+    {
+      "depto": "SAN ANDRES Y PROVIDENCIA",
+      "multas": "2019",
+      "valor": "1569580029"
+    },
+    {
+      "depto": "AMAZONAS",
+      "multas": "1111",
+      "valor": "762213412"
+    },
+    {
+      "depto": "Amazonas",
+      "multas": "775",
+      "valor": "445660003"
+    }
+  ],
+  "topCiudades": [
+    {
+      "ciudad": "Bogota D.C.",
+      "depto": "Bogota D.C.",
+      "multas": "3871898",
+      "valor": "1947630299814"
+    },
+    {
+      "ciudad": "Medellin",
+      "depto": "Antioquia",
+      "multas": "2735425",
+      "valor": "1635447828410"
+    },
+    {
+      "ciudad": "Cali",
+      "depto": "Valle del Cauca",
+      "multas": "1917344",
+      "valor": "1231909739375"
+    },
+    {
+      "ciudad": "BOGOTA D.C.",
+      "depto": "BOGOTA D.C.",
+      "multas": "972321",
+      "valor": "597831787700"
+    },
+    {
+      "ciudad": "Barranquilla",
+      "depto": "Atlantico",
+      "multas": "910187",
+      "valor": "497015706438"
+    },
+    {
+      "ciudad": "CALI",
+      "depto": "VALLE DEL CAUCA",
+      "multas": "807768",
+      "valor": "671010731317"
+    },
+    {
+      "ciudad": "Bello",
+      "depto": "Antioquia",
+      "multas": "787321",
+      "valor": "486135163996"
+    },
+    {
+      "ciudad": "MEDELLIN",
+      "depto": "ANTIOQUIA",
+      "multas": "643024",
+      "valor": "476440463300"
+    },
+    {
+      "ciudad": "Itag?i",
+      "depto": "Antioquia",
+      "multas": "590794",
+      "valor": "366587244022"
+    },
+    {
+      "ciudad": "Popayan",
+      "depto": "Cauca",
+      "multas": "432808",
+      "valor": "280658332813"
+    },
+    {
+      "ciudad": "Cucuta",
+      "depto": "Norte de Santander",
+      "multas": "312807",
+      "valor": "230891111548"
+    },
+    {
+      "ciudad": "ITAG?I",
+      "depto": "ANTIOQUIA",
+      "multas": "303369",
+      "valor": "221975071448"
+    },
+    {
+      "ciudad": "Santa Marta",
+      "depto": "Magdalena",
+      "multas": "301545",
+      "valor": "185309772410"
+    },
+    {
+      "ciudad": "ATLANTICO",
+      "depto": "Atlantico",
+      "multas": "289575",
+      "valor": "142243785074"
+    },
+    {
+      "ciudad": "Sabaneta",
+      "depto": "Antioquia",
+      "multas": "258374",
+      "valor": "159755897117"
+    },
+    {
+      "ciudad": "Cartagena",
+      "depto": "Bolivar",
+      "multas": "233292",
+      "valor": "152194408738"
+    },
+    {
+      "ciudad": "Neiva",
+      "depto": "Huila",
+      "multas": "214875",
+      "valor": "119979411546"
+    },
+    {
+      "ciudad": "Bucaramanga",
+      "depto": "Santander",
+      "multas": "209901",
+      "valor": "125812779642"
+    },
+    {
+      "ciudad": "Bugalagrande",
+      "depto": "Valle del Cauca",
+      "multas": "192672",
+      "valor": "92749689348"
+    },
+    {
+      "ciudad": "Los Patios",
+      "depto": "Norte de Santander",
+      "multas": "186047",
+      "valor": "100532113308"
+    }
+  ]
+}

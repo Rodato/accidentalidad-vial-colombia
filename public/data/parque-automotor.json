@@ -1,0 +1,694 @@
+{
+  "porClase": [
+    {
+      "clase": "MOTOCICLETA",
+      "estado": "ACTIVO",
+      "n": "13803427"
+    },
+    {
+      "clase": "AUTOMOVIL",
+      "estado": "ACTIVO",
+      "n": "4009927"
+    },
+    {
+      "clase": "CAMIONETA",
+      "estado": "ACTIVO",
+      "n": "2047039"
+    },
+    {
+      "clase": "CAMPERO",
+      "estado": "ACTIVO",
+      "n": "766379"
+    },
+    {
+      "clase": "CAMION",
+      "estado": "ACTIVO",
+      "n": "316234"
+    },
+    {
+      "clase": "MOTOCARRO",
+      "estado": "ACTIVO",
+      "n": "163760"
+    },
+    {
+      "clase": "SEMIREMOLQUE",
+      "estado": "ACTIVO",
+      "n": "124104"
+    },
+    {
+      "clase": "BUS",
+      "estado": "ACTIVO",
+      "n": "83047"
+    },
+    {
+      "clase": "MICROBUS",
+      "estado": "ACTIVO",
+      "n": "81956"
+    },
+    {
+      "clase": "TRACTOCAMION",
+      "estado": "ACTIVO",
+      "n": "69848"
+    },
+    {
+      "clase": "VOLQUETA",
+      "estado": "ACTIVO",
+      "n": "58646"
+    },
+    {
+      "clase": "BUSETA",
+      "estado": "ACTIVO",
+      "n": "34012"
+    },
+    {
+      "clase": "EXCAVADORA",
+      "estado": "ACTIVO",
+      "n": "22669"
+    },
+    {
+      "clase": "CUATRIMOTO",
+      "estado": "ACTIVO",
+      "n": "18130"
+    },
+    {
+      "clase": "CICLOMOTOR",
+      "estado": "ACTIVO",
+      "n": "15490"
+    },
+    {
+      "clase": "TRACTOR",
+      "estado": "ACTIVO",
+      "n": "14837"
+    },
+    {
+      "clase": "AUTOMOVIL",
+      "estado": "INCONSISTENTE",
+      "n": "14607"
+    },
+    {
+      "clase": "RETROEXCAVADORA",
+      "estado": "ACTIVO",
+      "n": "13594"
+    },
+    {
+      "clase": "MOTOCICLETA",
+      "estado": "INCONSISTENTE",
+      "n": "10789"
+    },
+    {
+      "clase": "MINICARGADOR",
+      "estado": "ACTIVO",
+      "n": "7905"
+    },
+    {
+      "clase": "MONTACARGAS",
+      "estado": "ACTIVO",
+      "n": "7867"
+    },
+    {
+      "clase": "CARGADOR",
+      "estado": "ACTIVO",
+      "n": "7365"
+    },
+    {
+      "clase": "MAQ. AGRICOLA",
+      "estado": "ACTIVO",
+      "n": "7116"
+    },
+    {
+      "clase": "CAMPERO",
+      "estado": "INCONSISTENTE",
+      "n": "5604"
+    },
+    {
+      "clase": "CAMIONETA",
+      "estado": "INCONSISTENTE",
+      "n": "5340"
+    },
+    {
+      "clase": "MAQ. INDUSTRIAL",
+      "estado": "ACTIVO",
+      "n": "4566"
+    },
+    {
+      "clase": "BULDOZER",
+      "estado": "ACTIVO",
+      "n": "4404"
+    },
+    {
+      "clase": "VIBROCOMPACTADORA",
+      "estado": "ACTIVO",
+      "n": "3386"
+    },
+    {
+      "clase": "REMOLQUE",
+      "estado": "ACTIVO",
+      "n": "3132"
+    },
+    {
+      "clase": "MOTONIVELADORA",
+      "estado": "ACTIVO",
+      "n": "2887"
+    },
+    {
+      "clase": "COSECHADORA",
+      "estado": "ACTIVO",
+      "n": "2595"
+    },
+    {
+      "clase": "CAMION",
+      "estado": "INCONSISTENTE",
+      "n": "2327"
+    },
+    {
+      "clase": "MINI EXCAVADORA",
+      "estado": "ACTIVO",
+      "n": "1846"
+    },
+    {
+      "clase": "CUADRICICLO",
+      "estado": "ACTIVO",
+      "n": "1825"
+    },
+    {
+      "clase": "BUS",
+      "estado": "INCONSISTENTE",
+      "n": "1306"
+    },
+    {
+      "clase": "COMPACTADOR",
+      "estado": "ACTIVO",
+      "n": "999"
+    },
+    {
+      "clase": "RETROCARGADOR",
+      "estado": "ACTIVO",
+      "n": "978"
+    },
+    {
+      "clase": "MOTOTRICICLO",
+      "estado": "ACTIVO",
+      "n": "957"
+    },
+    {
+      "clase": "BUSETA",
+      "estado": "INCONSISTENTE",
+      "n": "709"
+    },
+    {
+      "clase": "MICROBUS",
+      "estado": "INCONSISTENTE",
+      "n": "662"
+    },
+    {
+      "clase": "GRUA",
+      "estado": "ACTIVO",
+      "n": "651"
+    },
+    {
+      "clase": "TRICIMOTO",
+      "estado": "ACTIVO",
+      "n": "555"
+    },
+    {
+      "clase": "DUMPER (VOLQUETA ARTICULADA)",
+      "estado": "ACTIVO",
+      "n": "481"
+    },
+    {
+      "clase": "AUTOHORMIGONERA",
+      "estado": "ACTIVO",
+      "n": "447"
+    },
+    {
+      "clase": "MANIPULADOR TELESCOPICO",
+      "estado": "ACTIVO",
+      "n": "446"
+    },
+    {
+      "clase": "CAMIÓN",
+      "estado": "ACTIVO",
+      "n": "445"
+    },
+    {
+      "clase": "PERFORADORA",
+      "estado": "ACTIVO",
+      "n": "429"
+    },
+    {
+      "clase": "PLATAFORMA DE ELEVACION",
+      "estado": "ACTIVO",
+      "n": "351"
+    },
+    {
+      "clase": "CARRETILLA ELEVADORA",
+      "estado": "ACTIVO",
+      "n": "294"
+    },
+    {
+      "clase": "PAVIMENTADORA",
+      "estado": "ACTIVO",
+      "n": "285"
+    },
+    {
+      "clase": "CAMIÓN GRÚA",
+      "estado": "ACTIVO",
+      "n": "275"
+    },
+    {
+      "clase": "CARGADORA FRONTAL",
+      "estado": "ACTIVO",
+      "n": "271"
+    },
+    {
+      "clase": "TRACTOR SOBRE ORUGA",
+      "estado": "ACTIVO",
+      "n": "208"
+    },
+    {
+      "clase": "CARRETILLA APILADORA",
+      "estado": "ACTIVO",
+      "n": "197"
+    },
+    {
+      "clase": "TRACTOCAMION",
+      "estado": "INCONSISTENTE",
+      "n": "163"
+    },
+    {
+      "clase": "APLANADORA",
+      "estado": "ACTIVO",
+      "n": "157"
+    },
+    {
+      "clase": "PILOTEADORA",
+      "estado": "ACTIVO",
+      "n": "136"
+    },
+    {
+      "clase": "TRITURADORA",
+      "estado": "ACTIVO",
+      "n": "126"
+    },
+    {
+      "clase": "FRESADORA",
+      "estado": "ACTIVO",
+      "n": "124"
+    },
+    {
+      "clase": "MINI RETROEXCAVADORA",
+      "estado": "ACTIVO",
+      "n": "120"
+    },
+    {
+      "clase": "TALADRO PERFORACION POZO PETROLERO",
+      "estado": "ACTIVO",
+      "n": "98"
+    },
+    {
+      "clase": "ALZADORA DE CAÑA",
+      "estado": "ACTIVO",
+      "n": "78"
+    },
+    {
+      "clase": "APILADOR",
+      "estado": "ACTIVO",
+      "n": "76"
+    },
+    {
+      "clase": "VOLQUETA",
+      "estado": "INCONSISTENTE",
+      "n": "72"
+    },
+    {
+      "clase": "JUMBO DE PERFORACION",
+      "estado": "ACTIVO",
+      "n": "63"
+    },
+    {
+      "clase": "SIN CLASE",
+      "estado": "ACTIVO",
+      "n": "60"
+    },
+    {
+      "clase": "TALADRO",
+      "estado": "ACTIVO",
+      "n": "58"
+    },
+    {
+      "clase": "CRIBAS",
+      "estado": "ACTIVO",
+      "n": "55"
+    },
+    {
+      "clase": "GATOR",
+      "estado": "ACTIVO",
+      "n": "53"
+    },
+    {
+      "clase": "MAQUINA BARREDORA",
+      "estado": "ACTIVO",
+      "n": "43"
+    },
+    {
+      "clase": "MOTOCARRO",
+      "estado": "INCONSISTENTE",
+      "n": "39"
+    },
+    {
+      "clase": "MANIPULADOR CARGADOR TELESCOPICO",
+      "estado": "ACTIVO",
+      "n": "34"
+    },
+    {
+      "clase": "PALA DRAGA",
+      "estado": "ACTIVO",
+      "n": "33"
+    },
+    {
+      "clase": "MAQ. AGRICOLA",
+      "estado": "INCONSISTENTE",
+      "n": "33"
+    },
+    {
+      "clase": "MAQ. INDUSTRIAL",
+      "estado": "INCONSISTENTE",
+      "n": "33"
+    },
+    {
+      "clase": "PULVERIZADOR AGRICOLA",
+      "estado": "ACTIVO",
+      "n": "27"
+    },
+    {
+      "clase": "BARREDORA",
+      "estado": "ACTIVO",
+      "n": "27"
+    },
+    {
+      "clase": "VOLCO",
+      "estado": "ACTIVO",
+      "n": "24"
+    },
+    {
+      "clase": "RECICLADORA",
+      "estado": "ACTIVO",
+      "n": "17"
+    },
+    {
+      "clase": "HORMIGONERA PARA TÚNELES",
+      "estado": "ACTIVO",
+      "n": "17"
+    },
+    {
+      "clase": "ZANJADORA",
+      "estado": "ACTIVO",
+      "n": "17"
+    },
+    {
+      "clase": "FINICHER",
+      "estado": "ACTIVO",
+      "n": "16"
+    },
+    {
+      "clase": "DRAGA",
+      "estado": "ACTIVO",
+      "n": "16"
+    },
+    {
+      "clase": "CORTADORA",
+      "estado": "ACTIVO",
+      "n": "15"
+    },
+    {
+      "clase": "TRANSPLANTADORA",
+      "estado": "ACTIVO",
+      "n": "14"
+    },
+    {
+      "clase": "VOLQUETA SOBRE ORUGA",
+      "estado": "ACTIVO",
+      "n": "12"
+    },
+    {
+      "clase": "ABONADORA",
+      "estado": "ACTIVO",
+      "n": "10"
+    },
+    {
+      "clase": "PALA FRONTAL",
+      "estado": "ACTIVO",
+      "n": "8"
+    },
+    {
+      "clase": "MOTOTRAÍLLA",
+      "estado": "ACTIVO",
+      "n": "8"
+    },
+    {
+      "clase": "PERFILADORA DE PAVIMENTO EN FRIO",
+      "estado": "ACTIVO",
+      "n": "7"
+    },
+    {
+      "clase": "FUMIGADORA",
+      "estado": "ACTIVO",
+      "n": "7"
+    },
+    {
+      "clase": "CAMION CARGA EXTENSA",
+      "estado": "ACTIVO",
+      "n": "7"
+    },
+    {
+      "clase": "CAMIÓN ESTÉRIL",
+      "estado": "ACTIVO",
+      "n": "7"
+    },
+    {
+      "clase": "RECICLADORA DE PAVIMENTOS",
+      "estado": "ACTIVO",
+      "n": "5"
+    },
+    {
+      "clase": "UTILERO",
+      "estado": "ACTIVO",
+      "n": "5"
+    },
+    {
+      "clase": "CUATRIMOTO",
+      "estado": "INCONSISTENTE",
+      "n": "4"
+    },
+    {
+      "clase": "CAMBIADORA DE RIEL",
+      "estado": "ACTIVO",
+      "n": "4"
+    },
+    {
+      "clase": "DISTRIBUIDOR AUTOPROPELIDO DE FERTILIZANTES",
+      "estado": "ACTIVO",
+      "n": "3"
+    },
+    {
+      "clase": "COMPOSTADORA",
+      "estado": "ACTIVO",
+      "n": "3"
+    },
+    {
+      "clase": "EQUIPO DE DEMOLICION",
+      "estado": "ACTIVO",
+      "n": "2"
+    },
+    {
+      "clase": "PLANTA DE ASFALTO CONTRAFLUJO",
+      "estado": "ACTIVO",
+      "n": "2"
+    },
+    {
+      "clase": "PRENSA HIDRAULICA",
+      "estado": "ACTIVO",
+      "n": "2"
+    },
+    {
+      "clase": "CAMIÓN TIJERA",
+      "estado": "ACTIVO",
+      "n": "2"
+    },
+    {
+      "clase": "CAMION CISTERNA",
+      "estado": "ACTIVO",
+      "n": "2"
+    },
+    {
+      "clase": "MAQUINA TRAZADORA",
+      "estado": "ACTIVO",
+      "n": "2"
+    },
+    {
+      "clase": "RECICLADORA DE LODO",
+      "estado": "ACTIVO",
+      "n": "2"
+    },
+    {
+      "clase": "IRRIGADOR",
+      "estado": "ACTIVO",
+      "n": "2"
+    },
+    {
+      "clase": "PENETROMETRO AUTOPROPULSADO",
+      "estado": "ACTIVO",
+      "n": "2"
+    },
+    {
+      "clase": "FERTILIZADORA",
+      "estado": "ACTIVO",
+      "n": "1"
+    },
+    {
+      "clase": "CAMIÓN DE RESCATE",
+      "estado": "ACTIVO",
+      "n": "1"
+    },
+    {
+      "clase": "CAMIÓN ESCALERA",
+      "estado": "ACTIVO",
+      "n": "1"
+    },
+    {
+      "clase": "MAQ. CONSTRUCCION O MINERA",
+      "estado": "ACTIVO",
+      "n": "1"
+    }
+  ],
+  "porDepto": [
+    {
+      "depto": "ANTIOQUIA",
+      "n": "3406258"
+    },
+    {
+      "depto": "BOGOTA D.C.",
+      "n": "2762845"
+    },
+    {
+      "depto": "CUNDINAMARCA",
+      "n": "2746299"
+    },
+    {
+      "depto": "VALLE DEL CAUCA",
+      "n": "2486823"
+    },
+    {
+      "depto": "SANTANDER",
+      "n": "1263696"
+    },
+    {
+      "depto": "CORDOBA",
+      "n": "726231"
+    },
+    {
+      "depto": "ATLANTICO",
+      "n": "707952"
+    },
+    {
+      "depto": "META",
+      "n": "636380"
+    },
+    {
+      "depto": "HUILA",
+      "n": "619979"
+    },
+    {
+      "depto": "NORTE DE SANTANDER",
+      "n": "579373"
+    },
+    {
+      "depto": "BOLIVAR",
+      "n": "555470"
+    },
+    {
+      "depto": "NARINO",
+      "n": "541914"
+    },
+    {
+      "depto": "TOLIMA",
+      "n": "536474"
+    },
+    {
+      "depto": "CALDAS",
+      "n": "507232"
+    },
+    {
+      "depto": "RISARALDA",
+      "n": "476168"
+    },
+    {
+      "depto": "CAUCA",
+      "n": "457007"
+    },
+    {
+      "depto": "MAGDALENA",
+      "n": "392541"
+    },
+    {
+      "depto": "BOYACA",
+      "n": "353390"
+    },
+    {
+      "depto": "CESAR",
+      "n": "318436"
+    },
+    {
+      "depto": "QUINDIO",
+      "n": "302694"
+    },
+    {
+      "depto": "CAQUETA",
+      "n": "260840"
+    },
+    {
+      "depto": "SUCRE",
+      "n": "239204"
+    },
+    {
+      "depto": "PUTUMAYO",
+      "n": "210807"
+    },
+    {
+      "depto": "CASANARE",
+      "n": "179959"
+    },
+    {
+      "depto": "GUAVIARE",
+      "n": "140917"
+    },
+    {
+      "depto": "ARAUCA",
+      "n": "98465"
+    },
+    {
+      "depto": "CHOCO",
+      "n": "64304"
+    },
+    {
+      "depto": "LA GUAJIRA",
+      "n": "50109"
+    },
+    {
+      "depto": "ARCHIPIELAGO DE SAN ANDRES, PROVIDENCIA",
+      "n": "35443"
+    },
+    {
+      "depto": "AMAZONAS",
+      "n": "26239"
+    },
+    {
+      "depto": "VICHADA",
+      "n": "14509"
+    },
+    {
+      "depto": "GUAINIA",
+      "n": "9916"
+    }
+  ]
+}
