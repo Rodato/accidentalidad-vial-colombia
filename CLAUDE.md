@@ -79,6 +79,7 @@ Los datasets de Policía (homicidios/lesiones) son a nivel de persona, **no tien
 - Siempre filtrar filas con dimensiones null/vacías **antes** de agregar. Si no, aparecen series fantasma tipo "undefined" en la leyenda.
 - `Plot.ruleY` en la versión actual no acepta `x1`/`x2`. Para dumbbells usar `Plot.link` con `{x1,y1,x2,y2}`.
 - Paleta: acento rojo `#ff4236`, soft `#ffb1a9`, neutro `#8a8691`. Fondo oscuro `#0b0b0f`, surface `#16161c`.
+- **Tooltips de Plot**: Plot pinta el tip como `<g aria-label="tip">` y hereda `currentColor` del SVG. Como `PlotFigure` setea `style.color` claro para los ejes, el texto del tip queda invisible (claro sobre fondo claro). En `globals.css` hay reglas globales con `!important` que fuerzan tip blanco con texto negro — **no** sobreescribir desde un chart específico.
 
 ### Tema
 
