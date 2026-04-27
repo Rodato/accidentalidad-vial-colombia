@@ -37,3 +37,15 @@ body {
 .section-rule {
   border-top: 1px solid var(--border);
 }
+
+g[aria-label="tip"] path {
+  fill: #ffffff !important;
+  stroke: #d4d4d4 !important;
+  stroke-width: 1;
+}
+
+g[aria-label="tip"] text,
+g[aria-label="tip"] tspan {
+  fill: #0b0b0f !important;
+  color: #0b0b0f !important;
+}

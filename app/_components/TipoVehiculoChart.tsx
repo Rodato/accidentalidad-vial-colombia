@@ -11,7 +11,8 @@ export function TipoVehiculoChart({ data }: { data: Row[] }) {
       options={{
         height: 420,
         marginLeft: 120,
-        marginRight: 20,
+        marginRight: 40,
+        marginBottom: 40,
         x: { label: "Accidentes →", grid: true, tickFormat: "~s" },
         y: { label: null },
         color: {
@@ -27,9 +28,18 @@ export function TipoVehiculoChart({ data }: { data: Row[] }) {
             y: "tipo",
             fill: "gravedad",
             sort: { y: "x", reverse: true, limit: 10 },
-            tip: true,
           }),
           Plot.ruleX([0]),
+          Plot.tip(
+            data,
+            Plot.pointerY({
+              x: "total",
+              y: "tipo",
+              fill: "gravedad",
+              title: (d: Row) =>
+                `${d.tipo}\n${d.gravedad}\nAccidentes: ${d.total.toLocaleString("es-CO")}`,
+            })
+          ),
         ],
       }}
     />
